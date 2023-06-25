@@ -12806,7 +12806,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239c72c000192",
       userId: "63701cc1f032390a34000319",
-      cost: 3584.18,
+      cost: 358400.18,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239db6900012a",
         "63701d24f03239c72c00018e",
@@ -12817,13 +12818,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239c72c000193",
       userId: "63701cc1f032398675000129",
-      cost: 2872.78,
+      cost: 287200.78,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239d40b00004c"],
     },
     {
       _id: "63701d74f03239c72c000194",
       userId: "63701cc1f03239528f00000d",
-      cost: 3215.35,
+      cost: 321500.35,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d25f03239d591000327",
         "63701d24f03239bef000012b",
@@ -12833,13 +12836,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239c72c000195",
       userId: "63701cc1f03239f09e000184",
-      cost: 2639.18,
+      cost: 263900.18,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239867500012c", "63701d24f03239d40b000053"],
     },
     {
       _id: "63701d74f03239c72c000196",
       userId: "63701cc1f032396b8e000007",
-      cost: 3944.07,
+      cost: 394400.07,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f0323986f300012a",
         "63701d24f03239b913000016",
@@ -12849,7 +12854,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239c72c000197",
       userId: "63701cc1f0323986f300011c",
-      cost: 2828.05,
+      cost: 282800.05,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f0323944410002ed",
         "63701d24f03239d40b00004a",
@@ -12859,7 +12865,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239c72c000198",
       userId: "63701cc1f03239528f000014",
-      cost: 3898.69,
+      cost: 389800.69,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d25f03239d59100032a",
         "63701d24f0323944410002ec",
@@ -12870,7 +12877,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239c72c000199",
       userId: "63701cc1f03239f09e00018c",
-      cost: 2838.72,
+      cost: 283800.72,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032394c4900012c",
         "63701d24f03239d40b000050",
@@ -12882,13 +12890,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239c72c00019a",
       userId: "63701cc1f0323986f3000120",
-      cost: 2113.01,
+      cost: 211300.01,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032395b3300012d"],
     },
     {
       _id: "63701d74f03239c72c00019b",
       userId: "63701cc1f03239528f00000c",
-      cost: 526.17,
+      cost: 526.0017,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239db6900012c",
         "63701d24f03239f09e000190",
@@ -12900,7 +12910,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239c72c00019c",
       userId: "63701cc1f032390a34000322",
-      cost: 2455.22,
+      cost: 245500.22,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032399c0000012c",
         "63701d24f03239cdc5000015",
@@ -12911,7 +12922,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239c72c00019d",
       userId: "63701cc1f03239cdc5000006",
-      cost: 479.22,
+      cost: 479.0022,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032395b3300012a",
         "63701d24f0323944410002ef",
@@ -12921,7 +12933,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239c72c00019e",
       userId: "63701cc1f03239569400000b",
-      cost: 2678.42,
+      cost: 267800.42,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239b913000018",
         "63701d24f03239c72c00018f",
@@ -12932,7 +12945,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239c72c00019f",
       userId: "63701cc1f032394c4900011e",
-      cost: 1213.83,
+      cost: 121300.83,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032399c0000012b",
         "63701d24f03239d81e000015",
@@ -12944,7 +12958,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239c72c0001a0",
       userId: "63701cc1f032390a34000320",
-      cost: 350.07,
+      cost: 350.0007,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239c72c000191",
         "63701d24f032395694000018",
@@ -12954,25 +12969,29 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239c72c0001a1",
       userId: "63701cc1f03239b91300000f",
-      cost: 2640.21,
+      cost: 264000.21,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239bef000012a", "63701d24f03239528f000018"],
     },
     {
       _id: "63701d74f03239c72c0001a2",
       userId: "63701cc1f03239db69000128",
-      cost: 2719.34,
+      cost: 271900.34,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239db6900012d"],
     },
     {
       _id: "63701d74f03239c72c0001a3",
       userId: "63701cc1f03239bef0000127",
-      cost: 2010.31,
+      cost: 201000.31,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032390a34000329", "63701d24f03239d40b000051"],
     },
     {
       _id: "63701d74f03239c72c0001a4",
       userId: "63701cc1f03239bef0000129",
-      cost: 3332.39,
+      cost: 333200.39,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239bef000012d",
         "63701d24f03239d40b00004d",
@@ -12984,13 +13003,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239c72c0001a5",
       userId: "63701cc1f03239d81e000014",
-      cost: 1417.86,
+      cost: 141700.86,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239b913000015"],
     },
     {
       _id: "63701d74f03239c72c0001a6",
       userId: "63701cc1f032390a3400031f",
-      cost: 2771.08,
+      cost: 277100.08,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d81e000017",
         "63701d24f03239bef000012c",
@@ -13000,7 +13021,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239c72c0001a7",
       userId: "63701cc1f03239c72c000181",
-      cost: 2866.23,
+      cost: 286600.23,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d81e000018",
         "63701d24f0323986f300012b",
@@ -13010,31 +13032,36 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239c72c0001a8",
       userId: "63701cc1f0323944410002de",
-      cost: 3430.65,
+      cost: 343000.65,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239b913000017", "63701d24f032390a34000327"],
     },
     {
       _id: "63701d74f03239c72c0001a9",
       userId: "63701cc1f03239d591000323",
-      cost: 1012.62,
+      cost: 101200.62,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032394c4900012d"],
     },
     {
       _id: "63701d74f03239c72c0001aa",
       userId: "63701cc1f03239bef0000124",
-      cost: 2666,
+      cost: 266600,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239f09e000191", "63701d24f03239f09e00018e"],
     },
     {
       _id: "63701d74f03239c72c0001ab",
       userId: "63701cc1f03239d40b00003c",
-      cost: 39.18,
+      cost: 39.1008,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239c72c00018e"],
     },
     {
       _id: "63701d74f03239c72c0001ac",
       userId: "63701cc1f032395b33000128",
-      cost: 2028.64,
+      cost: 202800.64,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239c72c000190",
         "63701d24f03239b7f7000017",
@@ -13046,13 +13073,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239c72c0001ad",
       userId: "63701cc1f032390a34000319",
-      cost: 2666.12,
+      cost: 266600.12,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239db6900012d"],
     },
     {
       _id: "63701d74f03239c72c0001ae",
       userId: "63701cc1f03239b7f700000e",
-      cost: 601.72,
+      cost: 601.0072,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032399c0000012c",
         "63701d24f03239db6900012b",
@@ -13063,13 +13092,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239c72c0001af",
       userId: "63701cc1f032398675000122",
-      cost: 2163.31,
+      cost: 216300.31,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239cdc5000016"],
     },
     {
       _id: "63701d74f03239c72c0001b0",
       userId: "63701cc1f032398675000126",
-      cost: 2146.86,
+      cost: 214600.86,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032395694000018",
         "63701d24f03239d40b000052",
@@ -13079,7 +13110,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239c72c0001b1",
       userId: "63701cc1f03239bef0000125",
-      cost: 3531.1,
+      cost: 353100.1,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239bef000012a",
         "63701d24f03239db6900012c",
@@ -13090,13 +13122,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239c72c0001b2",
       userId: "63701cc1f03239bef0000120",
-      cost: 1702.37,
+      cost: 170200.37,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032395b3300012c", "63701d24f032395694000015"],
     },
     {
       _id: "63701d74f03239c72c0001b3",
       userId: "63701cc1f032396b8e000013",
-      cost: 1681.56,
+      cost: 168100.56,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239f09e000190",
         "63701d24f03239b7f7000018",
@@ -13108,7 +13142,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239c72c0001b4",
       userId: "63701cc1f032396b8e00000b",
-      cost: 1530.11,
+      cost: 153000.11,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b00004d",
         "63701d24f03239d81e000017",
@@ -13118,19 +13153,22 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239c72c0001b5",
       userId: "63701cc1f03239f09e000183",
-      cost: 394.26,
+      cost: 394.0026,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239d40b000050", "63701d24f032399c0000012b"],
     },
     {
       _id: "63701d74f03239c72c0001b6",
       userId: "63701cc1f03239b91300000b",
-      cost: 2979.19,
+      cost: 297900.19,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d25f03239d591000329"],
     },
     {
       _id: "63701d74f03239c72c0001b7",
       userId: "63701cc1f032395b33000120",
-      cost: 1277.12,
+      cost: 127700.12,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239cdc5000018",
         "63701d24f03239bef000012d",
@@ -13141,13 +13179,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239c72c0001b8",
       userId: "63701cc1f032399c00000124",
-      cost: 46.81,
+      cost: 46.8001,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d25f03239d591000327"],
     },
     {
       _id: "63701d74f03239c72c0001b9",
       userId: "63701cc1f032390a34000325",
-      cost: 2664.34,
+      cost: 266400.34,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239cdc5000015",
         "63701d24f03239d81e000015",
@@ -13159,25 +13199,29 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239c72c0001ba",
       userId: "63701cc1f03239b7f7000011",
-      cost: 3066.85,
+      cost: 306600.85,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239528f000017", "63701d24f0323944410002ef"],
     },
     {
       _id: "63701d74f03239c72c0001bb",
       userId: "63701cc1f03239db69000123",
-      cost: 1638.82,
+      cost: 163800.82,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239b913000017", "63701d24f0323944410002ec"],
     },
     {
       _id: "63701d74f03239c72c0001bc",
       userId: "63701cc1f03239db69000127",
-      cost: 1165.64,
+      cost: 116500.64,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032394c4900012a", "63701d24f03239b7f7000016"],
     },
     {
       _id: "63701d74f03239c72c0001bd",
       userId: "63701cc1f0323944410002e2",
-      cost: 2329.2,
+      cost: 232900.2,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b00004c",
         "63701d24f03239867500012b",
@@ -13189,7 +13233,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239c72c0001be",
       userId: "63701cc1f032395b33000121",
-      cost: 1378.31,
+      cost: 137800.31,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b00004b",
         "63701d24f0323986f300012d",
@@ -13200,7 +13245,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239c72c0001bf",
       userId: "63701cc1f0323944410002e8",
-      cost: 3395.92,
+      cost: 339500.92,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b000048",
         "63701d24f03239bef000012b",
@@ -13211,19 +13257,22 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239867500012e",
       userId: "63701cc1f03239b7f7000014",
-      cost: 3934.55,
+      cost: 393400.55,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239b913000018", "63701d24f03239d81e000018"],
     },
     {
       _id: "63701d74f03239867500012f",
       userId: "63701cc1f03239d81e00000b",
-      cost: 1650.67,
+      cost: 165000.67,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032390a34000327"],
     },
     {
       _id: "63701d74f032398675000130",
       userId: "63701cc1f032394c49000129",
-      cost: 2428.57,
+      cost: 242800.57,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032394c4900012b",
         "63701d24f03239f09e00018e",
@@ -13235,7 +13284,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032398675000131",
       userId: "63701cc1f03239528f000010",
-      cost: 2996.52,
+      cost: 299600.52,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032395694000017",
         "63701d24f03239f09e00018f",
@@ -13245,7 +13295,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032398675000132",
       userId: "63701cc1f03239b7f700000f",
-      cost: 1028.7,
+      cost: 102800.7,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239b913000015",
         "63701d24f03239b7f7000015",
@@ -13256,7 +13307,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032398675000133",
       userId: "63701cc1f032394c4900011e",
-      cost: 3463.58,
+      cost: 346300.58,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b000055",
         "63701d24f03239cdc5000015",
@@ -13268,7 +13320,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032398675000134",
       userId: "63701cc1f03239c72c000188",
-      cost: 1434.83,
+      cost: 143400.83,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f0323986f300012b",
         "63701d24f03239bef000012a",
@@ -13280,7 +13333,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032398675000135",
       userId: "63701cc1f03239db69000120",
-      cost: 3925.03,
+      cost: 392500.03,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239db6900012a",
         "63701d24f03239c72c00018f",
@@ -13290,7 +13344,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032398675000136",
       userId: "63701cc1f03239f09e00018d",
-      cost: 2473.8,
+      cost: 247300.8,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032395694000015",
         "63701d24f03239f09e00018e",
@@ -13302,7 +13357,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032398675000137",
       userId: "63701cc1f032390a34000318",
-      cost: 3117.84,
+      cost: 311700.84,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032394c4900012a",
         "63701d24f03239db6900012b",
@@ -13314,7 +13370,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032398675000138",
       userId: "63701cc1f03239528f000014",
-      cost: 15.81,
+      cost: 15.8001,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032390a3400032a",
         "63701d24f03239d40b000050",
@@ -13325,13 +13382,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032398675000139",
       userId: "63701cc1f0323986f3000122",
-      cost: 2986.56,
+      cost: 298600.56,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239d40b000051"],
     },
     {
       _id: "63701d74f03239867500013a",
       userId: "63701cc1f0323986f300011f",
-      cost: 3280.18,
+      cost: 328000.18,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032394c4900012b",
         "63701d24f03239b7f7000016",
@@ -13342,13 +13401,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239867500013b",
       userId: "63701cc1f03239d59100031e",
-      cost: 448.24,
+      cost: 448.0024,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239f09e000190"],
     },
     {
       _id: "63701d74f03239867500013c",
       userId: "63701cc1f03239bef000011f",
-      cost: 252.67,
+      cost: 252.0067,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032396b8e000017",
         "63701d24f032399c0000012d",
@@ -13360,7 +13421,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239867500013d",
       userId: "63701cc1f03239c72c000189",
-      cost: 1047.45,
+      cost: 104700.45,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032395b3300012d",
         "63701d24f032390a34000329",
@@ -13372,7 +13434,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239867500013e",
       userId: "63701cc1f03239db6900011f",
-      cost: 1004.06,
+      cost: 100400.06,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b000054",
         "63701d24f03239b7f7000018",
@@ -13383,7 +13446,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239867500013f",
       userId: "63701cc1f03239b913000010",
-      cost: 322.72,
+      cost: 322.0072,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032395b3300012c",
         "63701d24f032390a34000328",
@@ -13395,7 +13459,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032398675000140",
       userId: "63701cc1f0323944410002de",
-      cost: 404.7,
+      cost: 404.007,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b000053",
         "63701d24f032395b3300012b",
@@ -13405,7 +13470,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032398675000141",
       userId: "63701cc1f03239d59100031d",
-      cost: 1349.65,
+      cost: 134900.65,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b000048",
         "63701d24f032399c0000012c",
@@ -13416,13 +13482,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032398675000142",
       userId: "63701cc1f032396b8e000006",
-      cost: 311.93,
+      cost: 311.0093,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239f09e00018f"],
     },
     {
       _id: "63701d74f032398675000143",
       userId: "63701cc1f03239b913000009",
-      cost: 3087.45,
+      cost: 308700.45,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239b913000017",
         "63701d24f032390a34000327",
@@ -13433,13 +13501,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032398675000144",
       userId: "63701cc1f03239f09e000184",
-      cost: 1824.33,
+      cost: 182400.33,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032399c0000012a"],
     },
     {
       _id: "63701d74f032398675000145",
       userId: "63701cc1f032390a34000319",
-      cost: 3238.44,
+      cost: 323800.44,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239867500012a",
         "63701d24f03239d40b00004a",
@@ -13450,7 +13520,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032398675000146",
       userId: "63701cc1f032390a34000324",
-      cost: 741.08,
+      cost: 741.0008,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239cdc5000018",
         "63701d24f03239d40b000049",
@@ -13461,13 +13532,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032398675000147",
       userId: "63701cc1f0323986f3000124",
-      cost: 1416.51,
+      cost: 141600.51,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239c72c00018e"],
     },
     {
       _id: "63701d74f032398675000148",
       userId: "63701cc1f03239d40b000046",
-      cost: 2765.52,
+      cost: 276500.52,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239867500012c",
         "63701d24f0323986f300012a",
@@ -13477,19 +13550,22 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032398675000149",
       userId: "63701cc1f03239c72c00018c",
-      cost: 3616.77,
+      cost: 361600.77,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239bef000012d"],
     },
     {
       _id: "63701d74f03239867500014a",
       userId: "63701cc1f03239d591000320",
-      cost: 2867.59,
+      cost: 286700.59,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032399c0000012b", "63701d24f03239db6900012d"],
     },
     {
       _id: "63701d74f03239867500014b",
       userId: "63701cc1f03239d59100031e",
-      cost: 1856.78,
+      cost: 185600.78,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f0323986f300012d",
         "63701d25f03239d59100032a",
@@ -13500,7 +13576,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239867500014c",
       userId: "63701cc1f032390a3400031f",
-      cost: 1895.99,
+      cost: 189500.99,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032394c4900012b",
         "63701d24f03239f09e000191",
@@ -13510,13 +13587,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239867500014d",
       userId: "63701cc1f03239b913000007",
-      cost: 2642.94,
+      cost: 264200.94,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239b913000018"],
     },
     {
       _id: "63701d74f03239867500014e",
       userId: "63701cc1f0323944410002eb",
-      cost: 1513.8,
+      cost: 151300.8,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239c72c00018e",
         "63701d24f032395694000018",
@@ -13528,7 +13607,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239867500014f",
       userId: "63701cc1f03239b91300000d",
-      cost: 1729.13,
+      cost: 172900.13,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239c72c00018f",
         "63701d24f03239d81e000018",
@@ -13538,25 +13618,29 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032398675000150",
       userId: "63701cc1f032390a34000318",
-      cost: 2249.24,
+      cost: 224900.24,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239d40b00004b"],
     },
     {
       _id: "63701d74f032398675000151",
       userId: "63701cc1f0323986f300011b",
-      cost: 326.45,
+      cost: 326.0045,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239f09e00018e", "63701d24f03239d40b000051"],
     },
     {
       _id: "63701d74f032398675000152",
       userId: "63701cc1f03239d81e000010",
-      cost: 442.46,
+      cost: 442.0046,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239bef000012a", "63701d24f03239d40b000056"],
     },
     {
       _id: "63701d74f032398675000153",
       userId: "63701cc1f03239d81e000007",
-      cost: 1839.71,
+      cost: 183900.71,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239867500012c",
         "63701d24f03239c72c000190",
@@ -13567,31 +13651,36 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032398675000154",
       userId: "63701cc1f03239cdc500000f",
-      cost: 1984.49,
+      cost: 198400.49,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f0323986f300012c", "63701d24f03239b913000017"],
     },
     {
       _id: "63701d74f032398675000155",
       userId: "63701cc1f032396b8e000012",
-      cost: 740.68,
+      cost: 740.0068,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032395b3300012a", "63701d24f032390a34000328"],
     },
     {
       _id: "63701d74f032398675000156",
       userId: "63701cc1f03239cdc5000014",
-      cost: 326.64,
+      cost: 326.0064,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239f09e000190", "63701d24f03239f09e00018f"],
     },
     {
       _id: "63701d74f032398675000157",
       userId: "63701cc1f03239db69000120",
-      cost: 12.77,
+      cost: 12.7007,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239db6900012d", "63701d24f03239db6900012a"],
     },
     {
       _id: "63701d74f032398675000158",
       userId: "63701cc1f03239d40b000040",
-      cost: 1669.08,
+      cost: 166900.08,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032390a34000329",
         "63701d24f03239b7f7000017",
@@ -13601,7 +13690,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032398675000159",
       userId: "63701cc1f03239b7f7000008",
-      cost: 3730.68,
+      cost: 373000.68,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239867500012a",
         "63701d24f03239528f000017",
@@ -13612,19 +13702,22 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239867500015a",
       userId: "63701cc1f03239b7f700000e",
-      cost: 2928.08,
+      cost: 292800.08,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239d81e000017", "63701d24f0323944410002ed"],
     },
     {
       _id: "63701d74f03239867500015b",
       userId: "63701cc1f03239cdc500000a",
-      cost: 2068.11,
+      cost: 206800.11,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239d81e000016"],
     },
     {
       _id: "63701d74f03239b7f7000019",
       userId: "63701cc1f03239569400000d",
-      cost: 2503.88,
+      cost: 250300.88,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d25f03239d591000328",
         "63701d24f032396b8e000016",
@@ -13634,13 +13727,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239b7f700001a",
       userId: "63701cc1f032395b33000123",
-      cost: 2318.07,
+      cost: 231800.07,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032394c4900012c", "63701d24f03239b7f7000015"],
     },
     {
       _id: "63701d74f03239b7f700001b",
       userId: "63701cc1f03239528f000007",
-      cost: 3282.35,
+      cost: 328200.35,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032399c0000012b",
         "63701d24f03239d40b000049",
@@ -13651,13 +13746,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239b7f700001c",
       userId: "63701cc1f03239c72c000182",
-      cost: 1347.43,
+      cost: 134700.43,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032399c0000012d"],
     },
     {
       _id: "63701d74f03239b7f700001d",
       userId: "63701cc1f032399c0000011b",
-      cost: 874.77,
+      cost: 874.0077,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239867500012d",
         "63701d24f03239db6900012b",
@@ -13668,7 +13765,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239b7f700001e",
       userId: "63701cc1f032394c4900011b",
-      cost: 2835.28,
+      cost: 283500.28,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032395694000016",
         "63701d24f03239d40b00004f",
@@ -13680,19 +13778,22 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239b7f700001f",
       userId: "63701cc1f03239db69000127",
-      cost: 2192.19,
+      cost: 219200.19,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239528f000016", "63701d24f0323944410002ee"],
     },
     {
       _id: "63701d74f03239b7f7000020",
       userId: "63701cc1f03239db6900011d",
-      cost: 669.23,
+      cost: 669.0023,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032396b8e000018"],
     },
     {
       _id: "63701d74f03239b7f7000021",
       userId: "63701cc1f0323944410002e0",
-      cost: 1093.3,
+      cost: 109300.3,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032395694000015",
         "63701d24f03239d40b00004d",
@@ -13704,7 +13805,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239b7f7000022",
       userId: "63701cc1f03239bef0000123",
-      cost: 1630.72,
+      cost: 163000.72,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f0323944410002ef",
         "63701d24f03239cdc5000016",
@@ -13715,7 +13817,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239b7f7000023",
       userId: "63701cc1f032396b8e00000f",
-      cost: 776.76,
+      cost: 776.0076,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032396b8e000018",
         "63701d24f03239b913000015",
@@ -13725,25 +13828,29 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239b7f7000024",
       userId: "63701cc1f032395694000012",
-      cost: 2559.5,
+      cost: 255900.5,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032394c4900012c"],
     },
     {
       _id: "63701d74f03239b7f7000025",
       userId: "63701cc1f03239db69000123",
-      cost: 83.04,
+      cost: 83.0004,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239b7f7000018"],
     },
     {
       _id: "63701d74f03239b7f7000026",
       userId: "63701cc1f03239db69000125",
-      cost: 2729.82,
+      cost: 272900.82,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f0323986f300012d", "63701d24f03239b913000018"],
     },
     {
       _id: "63701d74f03239b7f7000027",
       userId: "63701cc1f03239528f00000b",
-      cost: 3419.77,
+      cost: 341900.77,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032396b8e000015",
         "63701d24f0323986f300012a",
@@ -13755,13 +13862,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239b7f7000028",
       userId: "63701cc1f03239d591000320",
-      cost: 1219.98,
+      cost: 121900.98,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032390a34000327"],
     },
     {
       _id: "63701d74f03239b7f7000029",
       userId: "63701cc1f03239d81e00000c",
-      cost: 2797.14,
+      cost: 279700.14,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b00004c",
         "63701d24f03239db6900012c",
@@ -13772,7 +13881,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239b7f700002a",
       userId: "63701cc1f03239b7f7000011",
-      cost: 3971.67,
+      cost: 397100.67,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239bef000012b",
         "63701d24f03239cdc5000018",
@@ -13783,13 +13893,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239b7f700002b",
       userId: "63701cc1f03239f09e00018a",
-      cost: 923.63,
+      cost: 923.0063,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239d40b000051", "63701d24f03239867500012d"],
     },
     {
       _id: "63701d74f03239b7f700002c",
       userId: "63701cc1f03239f09e00017f",
-      cost: 1756.36,
+      cost: 175600.36,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239cdc5000015",
         "63701d24f032395b3300012d",
@@ -13801,13 +13913,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239b7f700002d",
       userId: "63701cc1f0323986f300011d",
-      cost: 3323.5,
+      cost: 332300.5,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d25f03239d59100032a", "63701d24f03239d40b000056"],
     },
     {
       _id: "63701d74f03239b7f700002e",
       userId: "63701cc1f03239d591000326",
-      cost: 2546.93,
+      cost: 254600.93,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d81e000018",
         "63701d24f032395b3300012a",
@@ -13817,19 +13931,22 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239b7f700002f",
       userId: "63701cc1f032399c00000123",
-      cost: 1720.08,
+      cost: 172000.08,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032399c0000012b"],
     },
     {
       _id: "63701d74f03239b7f7000030",
       userId: "63701cc1f03239cdc500000c",
-      cost: 1035.65,
+      cost: 103500.65,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d25f03239d591000329", "63701d24f03239b7f7000017"],
     },
     {
       _id: "63701d74f03239b7f7000031",
       userId: "63701cc1f0323986f3000122",
-      cost: 223.87,
+      cost: 223.0087,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032395694000018",
         "63701d24f03239d40b000050",
@@ -13839,7 +13956,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239b7f7000032",
       userId: "63701cc1f03239d59100031d",
-      cost: 2962.55,
+      cost: 296200.55,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032399c0000012d",
         "63701d24f03239867500012b",
@@ -13851,7 +13969,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239b7f7000033",
       userId: "63701cc1f032390a34000326",
-      cost: 3538.76,
+      cost: 353800.76,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239db6900012a",
         "63701d24f03239d40b000047",
@@ -13863,13 +13982,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239b7f7000034",
       userId: "63701cc1f032394c4900011b",
-      cost: 3134.54,
+      cost: 313400.54,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f0323944410002ec"],
     },
     {
       _id: "63701d74f03239b7f7000035",
       userId: "63701cc1f03239528f00000c",
-      cost: 1017.55,
+      cost: 101700.55,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239db6900012d",
         "63701d24f03239d40b00004b",
@@ -13879,13 +14000,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239b7f7000036",
       userId: "63701cc1f03239db69000120",
-      cost: 1800.07,
+      cost: 180000.07,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239f09e00018f"],
     },
     {
       _id: "63701d74f03239b7f7000037",
       userId: "63701cc1f03239528f00000a",
-      cost: 2370.96,
+      cost: 237000.96,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032396b8e000016",
         "63701d24f032390a34000328",
@@ -13895,7 +14018,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239b7f7000038",
       userId: "63701cc1f032394c49000121",
-      cost: 3861.7,
+      cost: 386100.7,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239528f000015",
         "63701d24f03239d40b00004e",
@@ -13905,13 +14029,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239b7f7000039",
       userId: "63701cc1f032390a3400031f",
-      cost: 1701.46,
+      cost: 170100.46,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032390a34000329", "63701d24f03239c72c00018e"],
     },
     {
       _id: "63701d74f03239b7f700003a",
       userId: "63701cc1f032395694000013",
-      cost: 2136.5,
+      cost: 213600.5,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d81e000015",
         "63701d24f032399c0000012b",
@@ -13923,7 +14049,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239b7f700003b",
       userId: "63701cc1f03239cdc5000012",
-      cost: 2035.98,
+      cost: 203500.98,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b00004f",
         "63701d24f03239cdc5000018",
@@ -13933,7 +14060,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239b7f700003c",
       userId: "63701cc1f03239f09e00018b",
-      cost: 61.48,
+      cost: 61.4008,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032390a34000329",
         "63701d24f03239bef000012a",
@@ -13945,13 +14073,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239b7f700003d",
       userId: "63701cc1f03239cdc5000014",
-      cost: 2872.61,
+      cost: 287200.61,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032390a3400032a", "63701d24f03239867500012c"],
     },
     {
       _id: "63701d74f03239b7f700003e",
       userId: "63701cc1f032396b8e000010",
-      cost: 1588.75,
+      cost: 158800.75,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239867500012b",
         "63701d25f03239d591000327",
@@ -13961,7 +14091,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239b7f700003f",
       userId: "63701cc1f032396b8e00000c",
-      cost: 1521.71,
+      cost: 152100.71,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239db6900012c",
         "63701d24f032395b3300012a",
@@ -13972,7 +14103,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239b7f7000040",
       userId: "63701cc1f0323986f300011d",
-      cost: 1589.39,
+      cost: 158900.39,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239528f000016",
         "63701d24f032395b3300012d",
@@ -13984,13 +14116,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239b7f7000041",
       userId: "63701cc1f0323944410002df",
-      cost: 2292.43,
+      cost: 229200.43,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239bef000012b", "63701d24f032395694000016"],
     },
     {
       _id: "63701d74f03239b7f7000042",
       userId: "63701cc1f03239d81e000014",
-      cost: 2654.51,
+      cost: 265400.51,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f0323986f300012c",
         "63701d24f03239d81e000017",
@@ -14001,25 +14135,29 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239b7f7000043",
       userId: "63701cc1f032394c49000129",
-      cost: 3021.81,
+      cost: 302100.81,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239d40b00004c", "63701d24f03239db6900012d"],
     },
     {
       _id: "63701d74f03239b7f7000044",
       userId: "63701cc1f032394c49000121",
-      cost: 1008.2,
+      cost: 100800.2,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239d40b000056", "63701d24f03239b913000015"],
     },
     {
       _id: "63701d74f03239b7f7000045",
       userId: "63701cc1f03239b7f700000b",
-      cost: 3199.09,
+      cost: 319900.09,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032396b8e000018"],
     },
     {
       _id: "63701d74f03239b7f7000046",
       userId: "63701cc1f03239bef000011e",
-      cost: 2457.04,
+      cost: 245700.04,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b000053",
         "63701d24f03239d40b000052",
@@ -14029,7 +14167,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f0323944410002f0",
       userId: "63701cc1f032394c49000127",
-      cost: 1011.46,
+      cost: 101100.46,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d25f03239d59100032a",
         "63701d24f032395694000015",
@@ -14040,19 +14179,22 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f0323944410002f1",
       userId: "63701cc1f03239867500011d",
-      cost: 400.92,
+      cost: 400.0092,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032395694000017"],
     },
     {
       _id: "63701d74f0323944410002f2",
       userId: "63701cc1f03239d81e000007",
-      cost: 272.9,
+      cost: 272.009,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239f09e000190", "63701d24f03239867500012a"],
     },
     {
       _id: "63701d74f0323944410002f3",
       userId: "63701cc1f03239b913000007",
-      cost: 1751.19,
+      cost: 175100.19,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239bef000012d",
         "63701d24f03239d40b00004a",
@@ -14064,13 +14206,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f0323944410002f4",
       userId: "63701cc1f03239b7f700000f",
-      cost: 1045.99,
+      cost: 104500.99,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239528f000015"],
     },
     {
       _id: "63701d74f0323944410002f5",
       userId: "63701cc1f03239bef0000128",
-      cost: 1720.34,
+      cost: 172000.34,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f0323944410002ef",
         "63701d24f03239b7f7000015",
@@ -14082,19 +14226,22 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f0323944410002f6",
       userId: "63701cc1f03239cdc500000c",
-      cost: 3682.05,
+      cost: 368200.05,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d25f03239d591000329", "63701d25f03239d591000328"],
     },
     {
       _id: "63701d74f0323944410002f7",
       userId: "63701cc1f03239d40b000045",
-      cost: 711.15,
+      cost: 711.0015,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239528f000017"],
     },
     {
       _id: "63701d74f0323944410002f8",
       userId: "63701cc1f03239d81e000013",
-      cost: 192.99,
+      cost: 192.0099,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b000047",
         "63701d24f03239c72c00018e",
@@ -14106,7 +14253,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f0323944410002f9",
       userId: "63701cc1f03239d40b00003d",
-      cost: 1498.53,
+      cost: 149800.53,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032396b8e000015",
         "63701d24f03239d40b00004b",
@@ -14116,7 +14264,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f0323944410002fa",
       userId: "63701cc1f03239d40b00003b",
-      cost: 937.92,
+      cost: 937.0092,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032399c0000012d",
         "63701d24f03239d40b00004e",
@@ -14126,7 +14275,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f0323944410002fb",
       userId: "63701cc1f0323944410002e9",
-      cost: 2191.37,
+      cost: 219100.37,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239b7f7000017",
         "63701d24f03239f09e00018f",
@@ -14136,19 +14286,22 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f0323944410002fc",
       userId: "63701cc1f03239d81e00000c",
-      cost: 1696.79,
+      cost: 169600.79,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239b913000018", "63701d24f03239d40b000051"],
     },
     {
       _id: "63701d74f0323944410002fd",
       userId: "63701cc1f03239867500011e",
-      cost: 341.97,
+      cost: 341.0097,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239867500012c"],
     },
     {
       _id: "63701d74f0323944410002fe",
       userId: "63701cc1f032398675000123",
-      cost: 1379.87,
+      cost: 137900.87,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032395694000017",
         "63701d24f032396b8e000018",
@@ -14160,7 +14313,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f0323944410002ff",
       userId: "63701cc1f03239b913000008",
-      cost: 180.64,
+      cost: 180.0064,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239867500012d",
         "63701d24f03239c72c000191",
@@ -14171,7 +14325,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032394441000300",
       userId: "63701cc1f032394c4900011c",
-      cost: 145.14,
+      cost: 145.0014,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b00004a",
         "63701d24f03239f09e00018f",
@@ -14183,7 +14338,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032394441000301",
       userId: "63701cc1f03239d591000322",
-      cost: 3881.29,
+      cost: 388100.29,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032395b3300012d",
         "63701d24f032390a34000329",
@@ -14194,13 +14350,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032394441000302",
       userId: "63701cc1f03239b913000011",
-      cost: 24.01,
+      cost: 24.0001,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d25f03239d591000329"],
     },
     {
       _id: "63701d74f032394441000303",
       userId: "63701cc1f03239528f00000d",
-      cost: 1988.69,
+      cost: 198800.69,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032394c4900012d",
         "63701d24f03239b913000017",
@@ -14211,13 +14369,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032394441000304",
       userId: "63701cc1f032398675000125",
-      cost: 3909.76,
+      cost: 390900.76,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239c72c000190", "63701d24f032396b8e000015"],
     },
     {
       _id: "63701d74f032394441000305",
       userId: "63701cc1f03239d59100031c",
-      cost: 20.45,
+      cost: 20.4005,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239b7f7000015",
         "63701d24f032394c4900012c",
@@ -14229,7 +14389,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032394441000306",
       userId: "63701cc1f03239f09e000181",
-      cost: 52.32,
+      cost: 52.3002,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239528f000015",
         "63701d24f03239cdc5000018",
@@ -14239,7 +14400,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032394441000307",
       userId: "63701cc1f03239c72c000185",
-      cost: 2395.14,
+      cost: 239500.14,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239cdc5000016",
         "63701d24f032390a34000328",
@@ -14250,7 +14412,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032394441000308",
       userId: "63701cc1f03239569400000c",
-      cost: 393.18,
+      cost: 393.0018,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032395694000015",
         "63701d24f032396b8e000016",
@@ -14262,13 +14425,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032394441000309",
       userId: "63701cc1f03239c72c00017f",
-      cost: 1668.42,
+      cost: 166800.42,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239d40b000050"],
     },
     {
       _id: "63701d74f03239444100030a",
       userId: "63701cc1f03239b91300000e",
-      cost: 2774.08,
+      cost: 277400.08,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032390a34000327",
         "63701d24f032399c0000012c",
@@ -14280,7 +14445,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239444100030b",
       userId: "63701cc1f03239d81e00000b",
-      cost: 3241.98,
+      cost: 324100.98,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032399c0000012b",
         "63701d24f03239528f000017",
@@ -14291,7 +14457,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239444100030c",
       userId: "63701cc1f032390a3400031e",
-      cost: 537.57,
+      cost: 537.0057,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032395b3300012c",
         "63701d24f03239d40b00004e",
@@ -14302,13 +14469,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239444100030d",
       userId: "63701cc1f032396b8e00000a",
-      cost: 3024.75,
+      cost: 302400.75,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239b7f7000018"],
     },
     {
       _id: "63701d74f03239444100030e",
       userId: "63701cc1f03239528f000009",
-      cost: 882.19,
+      cost: 882.0019,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239b913000015",
         "63701d24f0323944410002ee",
@@ -14319,7 +14488,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239444100030f",
       userId: "63701cc1f0323944410002dd",
-      cost: 3720.71,
+      cost: 372000.71,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d81e000016",
         "63701d24f03239d81e000015",
@@ -14329,13 +14499,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032394441000310",
       userId: "63701cc1f03239c72c000188",
-      cost: 3040.09,
+      cost: 304000.09,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239d40b000048"],
     },
     {
       _id: "63701d74f032394441000311",
       userId: "63701cc1f0323944410002e5",
-      cost: 273.86,
+      cost: 273.0086,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032394c4900012b",
         "63701d24f03239b7f7000017",
@@ -14346,7 +14518,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032394441000312",
       userId: "63701cc1f032395b3300011e",
-      cost: 1751.67,
+      cost: 175100.67,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b000056",
         "63701d24f03239528f000018",
@@ -14358,7 +14531,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032394441000313",
       userId: "63701cc1f032395b3300011f",
-      cost: 698.12,
+      cost: 698.0012,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f0323986f300012d",
         "63701d24f0323944410002ec",
@@ -14368,19 +14542,22 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032394441000314",
       userId: "63701cc1f03239d81e000006",
-      cost: 562.1,
+      cost: 562.001,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239d40b000052"],
     },
     {
       _id: "63701d74f032394441000315",
       userId: "63701cc1f0323986f300011e",
-      cost: 323.69,
+      cost: 323.0069,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032399c0000012c", "63701d24f03239d40b000056"],
     },
     {
       _id: "63701d74f032394441000316",
       userId: "63701cc1f0323944410002de",
-      cost: 1783.11,
+      cost: 178300.11,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f0323944410002ef",
         "63701d24f03239cdc5000015",
@@ -14392,19 +14569,22 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032394441000317",
       userId: "63701cc1f03239d81e000007",
-      cost: 307.78,
+      cost: 307.0078,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239b913000018", "63701d24f03239d81e000016"],
     },
     {
       _id: "63701d74f032394441000318",
       userId: "63701cc1f03239c72c000186",
-      cost: 1941.33,
+      cost: 194100.33,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032394c4900012d", "63701d24f03239b913000015"],
     },
     {
       _id: "63701d74f032394441000319",
       userId: "63701cc1f03239c72c000189",
-      cost: 777.82,
+      cost: 777.0082,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032390a34000327",
         "63701d24f03239c72c00018e",
@@ -14416,13 +14596,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239444100031a",
       userId: "63701cc1f0323986f3000129",
-      cost: 896.38,
+      cost: 896.0038,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239867500012a"],
     },
     {
       _id: "63701d74f03239444100031b",
       userId: "63701cc1f032390a3400031b",
-      cost: 3993.14,
+      cost: 399300.14,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239b913000016",
         "63701d24f03239b7f7000018",
@@ -14433,7 +14615,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239444100031c",
       userId: "63701cc1f03239867500011f",
-      cost: 2104.01,
+      cost: 210400.01,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032395b3300012c",
         "63701d24f03239d40b00004c",
@@ -14443,19 +14626,22 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239444100031d",
       userId: "63701cc1f03239bef000011b",
-      cost: 1424.53,
+      cost: 142400.53,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239c72c00018f"],
     },
     {
       _id: "63701d74f03239d81e000019",
       userId: "63701cc1f03239b91300000b",
-      cost: 1206.91,
+      cost: 120600.91,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032399c0000012b"],
     },
     {
       _id: "63701d74f03239d81e00001a",
       userId: "63701cc1f03239db69000128",
-      cost: 2593.32,
+      cost: 259300.32,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239528f000016",
         "63701d24f03239528f000017",
@@ -14467,7 +14653,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d81e00001b",
       userId: "63701cc1f032399c00000127",
-      cost: 441.63,
+      cost: 441.0063,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239bef000012b",
         "63701d24f03239f09e000191",
@@ -14478,7 +14665,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d81e00001c",
       userId: "63701cc1f03239f09e000185",
-      cost: 3543.34,
+      cost: 354300.34,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239db6900012c",
         "63701d24f032396b8e000015",
@@ -14490,7 +14678,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d81e00001d",
       userId: "63701cc1f03239528f00000f",
-      cost: 927.82,
+      cost: 927.0082,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239c72c000190",
         "63701d24f03239867500012b",
@@ -14502,19 +14691,22 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d81e00001e",
       userId: "63701cc1f03239c72c000180",
-      cost: 659.42,
+      cost: 659.0042,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032395694000017", "63701d25f03239d591000327"],
     },
     {
       _id: "63701d74f03239d81e00001f",
       userId: "63701cc1f0323944410002eb",
-      cost: 1523.55,
+      cost: 152300.55,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239d40b00004e"],
     },
     {
       _id: "63701d74f03239d81e000020",
       userId: "63701cc1f032395b3300011b",
-      cost: 1236.25,
+      cost: 123600.25,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239b7f7000016",
         "63701d24f03239d40b00004d",
@@ -14524,7 +14716,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d81e000021",
       userId: "63701cc1f032399c00000128",
-      cost: 2512.96,
+      cost: 251200.96,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239f09e000190",
         "63701d24f032394c4900012c",
@@ -14536,7 +14729,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d81e000022",
       userId: "63701cc1f03239b7f700000b",
-      cost: 2015.04,
+      cost: 201500.04,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239f09e00018e",
         "63701d25f03239d59100032a",
@@ -14547,13 +14741,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d81e000023",
       userId: "63701cc1f032390a3400031e",
-      cost: 1171.28,
+      cost: 117100.28,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239d81e000017"],
     },
     {
       _id: "63701d74f03239d81e000024",
       userId: "63701cc1f03239db69000129",
-      cost: 2576.39,
+      cost: 257600.39,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d25f03239d591000329",
         "63701d24f03239d40b000051",
@@ -14564,7 +14760,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d81e000025",
       userId: "63701cc1f03239b7f7000012",
-      cost: 479,
+      cost: 479000,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f0323986f300012c",
         "63701d24f03239cdc5000017",
@@ -14576,7 +14773,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d81e000026",
       userId: "63701cc1f03239b913000010",
-      cost: 658.96,
+      cost: 658.0096,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239db6900012a",
         "63701d24f03239d40b000049",
@@ -14586,19 +14784,22 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d81e000027",
       userId: "63701cc1f032396b8e000012",
-      cost: 3673.32,
+      cost: 367300.32,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f0323944410002ee", "63701d24f03239d40b000055"],
     },
     {
       _id: "63701d74f03239d81e000028",
       userId: "63701cc1f03239f09e00018c",
-      cost: 3012.39,
+      cost: 301200.39,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f0323986f300012a", "63701d24f032395694000016"],
     },
     {
       _id: "63701d74f03239d81e000029",
       userId: "63701cc1f032395694000010",
-      cost: 3655.64,
+      cost: 365500.64,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239b7f7000017",
         "63701d24f03239b7f7000016",
@@ -14608,7 +14809,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d81e00002a",
       userId: "63701cc1f03239cdc500000f",
-      cost: 2519.39,
+      cost: 251900.39,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239528f000018",
         "63701d24f03239528f000015",
@@ -14618,25 +14820,29 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d81e00002b",
       userId: "63701cc1f03239d40b000038",
-      cost: 3852.49,
+      cost: 385200.49,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032395b3300012b"],
     },
     {
       _id: "63701d74f03239d81e00002c",
       userId: "63701cc1f032395b3300011b",
-      cost: 1390.8,
+      cost: 139000.8,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032395694000018"],
     },
     {
       _id: "63701d74f03239d81e00002d",
       userId: "63701cc1f03239528f000008",
-      cost: 3458.65,
+      cost: 345800.65,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032394c4900012a"],
     },
     {
       _id: "63701d74f03239d81e00002e",
       userId: "63701cc1f03239528f000012",
-      cost: 1891.32,
+      cost: 189100.32,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239bef000012b",
         "63701d24f03239db6900012d",
@@ -14646,19 +14852,22 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d81e00002f",
       userId: "63701cc1f03239bef000011d",
-      cost: 175.66,
+      cost: 175.0066,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239cdc5000016"],
     },
     {
       _id: "63701d74f03239d81e000030",
       userId: "63701cc1f0323986f300011b",
-      cost: 3556.56,
+      cost: 355600.56,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239867500012b", "63701d24f032394c4900012b"],
     },
     {
       _id: "63701d74f03239d81e000031",
       userId: "63701cc1f03239b7f7000013",
-      cost: 255.71,
+      cost: 255.0071,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032399c0000012d",
         "63701d24f032395b3300012a",
@@ -14670,7 +14879,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d81e000032",
       userId: "63701cc1f03239bef000011b",
-      cost: 2976.32,
+      cost: 297600.32,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b00004b",
         "63701d24f03239cdc5000015",
@@ -14682,7 +14892,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d81e000033",
       userId: "63701cc1f03239cdc5000013",
-      cost: 2149.4,
+      cost: 214900.4,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239f09e000191",
         "63701d24f032390a34000327",
@@ -14692,13 +14903,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d81e000034",
       userId: "63701cc1f032390a34000326",
-      cost: 742.71,
+      cost: 742.0071,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032395694000015"],
     },
     {
       _id: "63701d74f03239d81e000035",
       userId: "63701cc1f032394c4900011c",
-      cost: 2371.02,
+      cost: 237100.02,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032390a34000328",
         "63701d24f03239cdc5000018",
@@ -14709,13 +14922,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d81e000036",
       userId: "63701cc1f03239d40b000046",
-      cost: 494.3,
+      cost: 494.003,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239867500012d", "63701d24f0323944410002ed"],
     },
     {
       _id: "63701d74f03239d81e000037",
       userId: "63701cc1f0323986f3000120",
-      cost: 1794.9,
+      cost: 179400.9,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d81e000017",
         "63701d24f03239b913000015",
@@ -14726,7 +14941,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d81e000038",
       userId: "63701cc1f03239d591000322",
-      cost: 2760.45,
+      cost: 276000.45,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032396b8e000017",
         "63701d24f03239f09e00018e",
@@ -14737,13 +14953,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d81e000039",
       userId: "63701cc1f03239c72c000181",
-      cost: 1961.93,
+      cost: 196100.93,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239d81e000018"],
     },
     {
       _id: "63701d74f03239d81e00003a",
       userId: "63701cc1f03239d59100031b",
-      cost: 1201.56,
+      cost: 120100.56,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239b913000017",
         "63701d24f03239db6900012a",
@@ -14754,7 +14972,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d81e00003b",
       userId: "63701cc1f03239d591000323",
-      cost: 1550.04,
+      cost: 155000.04,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b000047",
         "63701d24f03239c72c000190",
@@ -14765,7 +14984,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d81e00003c",
       userId: "63701cc1f03239cdc5000014",
-      cost: 2215.73,
+      cost: 221500.73,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b000049",
         "63701d24f032396b8e000018",
@@ -14777,19 +14997,22 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d81e00003d",
       userId: "63701cc1f032399c0000011b",
-      cost: 3155.56,
+      cost: 315500.56,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239528f000017", "63701d24f0323986f300012c"],
     },
     {
       _id: "63701d74f03239d81e00003e",
       userId: "63701cc1f03239569400000c",
-      cost: 3956.27,
+      cost: 395600.27,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239d81e000015", "63701d24f03239c72c00018e"],
     },
     {
       _id: "63701d74f03239d81e00003f",
       userId: "63701cc1f03239f09e000181",
-      cost: 1177.57,
+      cost: 117700.57,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239bef000012a",
         "63701d24f0323944410002ef",
@@ -14800,7 +15023,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d81e000040",
       userId: "63701cc1f03239c72c000182",
-      cost: 3532.94,
+      cost: 353200.94,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239f09e000190",
         "63701d24f032395694000017",
@@ -14810,7 +15034,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d81e000041",
       userId: "63701cc1f03239f09e000189",
-      cost: 2818.98,
+      cost: 281800.98,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032399c0000012a",
         "63701d25f03239d591000329",
@@ -14822,7 +15047,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d81e000042",
       userId: "63701cc1f03239d81e00000c",
-      cost: 1308.84,
+      cost: 130800.84,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b00004f",
         "63701d24f03239f09e000190",
@@ -14832,13 +15058,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d81e000043",
       userId: "63701cc1f03239bef000011e",
-      cost: 944.22,
+      cost: 944.0022,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239d40b000049", "63701d24f032395694000016"],
     },
     {
       _id: "63701d74f03239d81e000044",
       userId: "63701cc1f032390a34000319",
-      cost: 607.91,
+      cost: 607.0091,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b00004c",
         "63701d24f03239db6900012c",
@@ -14850,7 +15078,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d81e000045",
       userId: "63701cc1f032394c49000124",
-      cost: 493.94,
+      cost: 493.0094,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b000054",
         "63701d25f03239d591000329",
@@ -14860,19 +15089,22 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d81e000046",
       userId: "63701cc1f03239b7f700000a",
-      cost: 2758.74,
+      cost: 275800.74,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239f09e00018e"],
     },
     {
       _id: "63701d74f032390a3400032b",
       userId: "63701cc1f032399c0000011d",
-      cost: 2727.46,
+      cost: 272700.46,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032394c4900012b"],
     },
     {
       _id: "63701d74f032390a3400032c",
       userId: "63701cc1f032396b8e000011",
-      cost: 1298.33,
+      cost: 129800.33,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239f09e00018f",
         "63701d24f03239d40b000048",
@@ -14882,13 +15114,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032390a3400032d",
       userId: "63701cc1f032390a34000326",
-      cost: 366.28,
+      cost: 366.0028,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239f09e000191", "63701d24f032395694000018"],
     },
     {
       _id: "63701d74f032390a3400032e",
       userId: "63701cc1f03239d40b00003c",
-      cost: 1003.36,
+      cost: 100300.36,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032394c4900012c",
         "63701d24f032396b8e000016",
@@ -14899,7 +15133,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032390a3400032f",
       userId: "63701cc1f03239db6900011c",
-      cost: 412.99,
+      cost: 412.0099,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239bef000012d",
         "63701d24f0323944410002ee",
@@ -14909,7 +15144,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032390a34000330",
       userId: "63701cc1f032398675000125",
-      cost: 3800.1,
+      cost: 380000.1,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b000047",
         "63701d24f03239b7f7000017",
@@ -14919,7 +15155,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032390a34000331",
       userId: "63701cc1f03239bef0000128",
-      cost: 491.56,
+      cost: 491.0056,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032390a34000327",
         "63701d24f03239867500012b",
@@ -14929,19 +15166,22 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032390a34000332",
       userId: "63701cc1f03239b91300000e",
-      cost: 2596.99,
+      cost: 259600.99,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d25f03239d591000327", "63701d24f032395b3300012b"],
     },
     {
       _id: "63701d74f032390a34000333",
       userId: "63701cc1f03239d40b000039",
-      cost: 2502.79,
+      cost: 250200.79,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239b7f7000018"],
     },
     {
       _id: "63701d74f032390a34000334",
       userId: "63701cc1f03239f09e000189",
-      cost: 219.07,
+      cost: 219.0007,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032394c4900012d",
         "63701d24f03239d81e000018",
@@ -14952,13 +15192,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032390a34000335",
       userId: "63701cc1f03239b7f700000c",
-      cost: 929.8,
+      cost: 929.008,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239528f000017", "63701d24f03239d81e000017"],
     },
     {
       _id: "63701d74f032390a34000336",
       userId: "63701cc1f03239d40b00003a",
-      cost: 1933.72,
+      cost: 193300.72,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d81e000016",
         "63701d24f032399c0000012d",
@@ -14970,7 +15212,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032390a34000337",
       userId: "63701cc1f032396b8e00000b",
-      cost: 619.13,
+      cost: 619.0013,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239b7f7000015",
         "63701d24f032399c0000012b",
@@ -14981,25 +15224,29 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032390a34000338",
       userId: "63701cc1f03239f09e000188",
-      cost: 1036.87,
+      cost: 103600.87,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239db6900012b"],
     },
     {
       _id: "63701d74f032390a34000339",
       userId: "63701cc1f0323944410002de",
-      cost: 2839.16,
+      cost: 283900.16,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239d40b00004a", "63701d24f03239528f000018"],
     },
     {
       _id: "63701d74f032390a3400033a",
       userId: "63701cc1f032399c00000127",
-      cost: 1732.47,
+      cost: 173200.47,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239d40b00004e"],
     },
     {
       _id: "63701d74f032390a3400033b",
       userId: "63701cc1f03239f09e00017f",
-      cost: 3183.64,
+      cost: 318300.64,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032396b8e000018",
         "63701d24f03239b7f7000016",
@@ -15011,7 +15258,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032390a3400033c",
       userId: "63701cc1f03239cdc5000009",
-      cost: 847.35,
+      cost: 847.0035,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f0323986f300012b",
         "63701d24f0323986f300012a",
@@ -15023,7 +15271,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032390a3400033d",
       userId: "63701cc1f03239bef000011c",
-      cost: 2369.72,
+      cost: 236900.72,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239b913000018",
         "63701d24f0323944410002ed",
@@ -15034,7 +15283,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032390a3400033e",
       userId: "63701cc1f032398675000127",
-      cost: 526.81,
+      cost: 526.0081,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239c72c00018f",
         "63701d24f03239528f000016",
@@ -15045,7 +15295,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032390a3400033f",
       userId: "63701cc1f03239b7f7000011",
-      cost: 789.3,
+      cost: 789.003,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032399c0000012b",
         "63701d24f03239d40b00004a",
@@ -15056,13 +15307,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032390a34000340",
       userId: "63701cc1f032396b8e00000b",
-      cost: 522.18,
+      cost: 522.0018,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239867500012d", "63701d24f03239867500012b"],
     },
     {
       _id: "63701d74f032390a34000341",
       userId: "63701cc1f03239b913000009",
-      cost: 2198.03,
+      cost: 219800.03,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f0323944410002ec",
         "63701d25f03239d591000328",
@@ -15072,7 +15325,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032390a34000342",
       userId: "63701cc1f032390a34000320",
-      cost: 2863.68,
+      cost: 286300.68,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239db6900012c",
         "63701d24f03239528f000018",
@@ -15083,13 +15337,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032390a34000343",
       userId: "63701cc1f03239b91300000f",
-      cost: 451.44,
+      cost: 451.0044,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239d81e000017", "63701d24f032395694000016"],
     },
     {
       _id: "63701d74f032390a34000344",
       userId: "63701cc1f03239d81e00000f",
-      cost: 3278.33,
+      cost: 327800.33,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d81e000018",
         "63701d24f03239d40b000047",
@@ -15100,7 +15356,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032390a34000345",
       userId: "63701cc1f03239f09e000185",
-      cost: 3301.41,
+      cost: 330100.41,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239528f000015",
         "63701d24f032390a34000328",
@@ -15111,13 +15368,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032390a34000346",
       userId: "63701cc1f032396b8e000010",
-      cost: 3120.14,
+      cost: 312000.14,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239bef000012b", "63701d24f032395694000018"],
     },
     {
       _id: "63701d74f032390a34000347",
       userId: "63701cc1f03239d591000321",
-      cost: 3018.79,
+      cost: 301800.79,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239c72c000190",
         "63701d24f03239528f000016",
@@ -15128,7 +15387,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032390a34000348",
       userId: "63701cc1f032395694000013",
-      cost: 3694.83,
+      cost: 369400.83,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239c72c00018f",
         "63701d24f032399c0000012a",
@@ -15140,7 +15400,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032390a34000349",
       userId: "63701cc1f032395b33000120",
-      cost: 2077.81,
+      cost: 207700.81,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239b913000018",
         "63701d24f03239db6900012d",
@@ -15152,7 +15413,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032390a3400034a",
       userId: "63701cc1f032395b33000126",
-      cost: 879.42,
+      cost: 879.0042,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032395b3300012a",
         "63701d24f03239bef000012d",
@@ -15163,25 +15425,29 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032390a3400034b",
       userId: "63701cc1f03239d40b000039",
-      cost: 364.65,
+      cost: 364.0065,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239cdc5000017", "63701d24f032396b8e000017"],
     },
     {
       _id: "63701d74f032390a3400034c",
       userId: "63701cc1f03239cdc5000010",
-      cost: 661.95,
+      cost: 661.0095,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032394c4900012b", "63701d24f03239d40b000056"],
     },
     {
       _id: "63701d74f032390a3400034d",
       userId: "63701cc1f03239bef000011f",
-      cost: 270.33,
+      cost: 270.0033,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f0323986f300012b", "63701d24f03239d40b000052"],
     },
     {
       _id: "63701d74f032390a3400034e",
       userId: "63701cc1f03239d81e000010",
-      cost: 1059.47,
+      cost: 105900.47,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032395b3300012d",
         "63701d24f032396b8e000016",
@@ -15192,7 +15458,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032390a3400034f",
       userId: "63701cc1f03239d40b000046",
-      cost: 424.78,
+      cost: 424.0078,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b00004d",
         "63701d24f03239d40b000053",
@@ -15202,7 +15469,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032390a34000350",
       userId: "63701cc1f032396b8e00000d",
-      cost: 3340.88,
+      cost: 334000.88,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239cdc5000015",
         "63701d24f03239d40b00004c",
@@ -15214,7 +15482,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032390a34000351",
       userId: "63701cc1f032395694000008",
-      cost: 1271.59,
+      cost: 127100.59,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f0323944410002ed",
         "63701d25f03239d59100032a",
@@ -15225,7 +15494,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032390a34000352",
       userId: "63701cc1f03239528f00000e",
-      cost: 1011.56,
+      cost: 101100.56,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d81e000015",
         "63701d24f03239d40b00004b",
@@ -15237,13 +15507,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032390a34000353",
       userId: "63701cc1f0323944410002e9",
-      cost: 2356.11,
+      cost: 235600.11,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032390a3400032a"],
     },
     {
       _id: "63701d74f032390a34000354",
       userId: "63701cc1f03239b7f7000006",
-      cost: 2921.72,
+      cost: 292100.72,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239cdc5000018",
         "63701d24f032399c0000012c",
@@ -15255,7 +15527,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032390a34000355",
       userId: "63701cc1f03239528f000011",
-      cost: 915.05,
+      cost: 915.0005,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239b7f7000018",
         "63701d24f03239f09e00018e",
@@ -15265,7 +15538,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032390a34000356",
       userId: "63701cc1f0323944410002ea",
-      cost: 3176.67,
+      cost: 317600.67,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239c72c00018e",
         "63701d24f03239867500012a",
@@ -15276,7 +15550,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032390a34000357",
       userId: "63701cc1f03239cdc500000b",
-      cost: 1513.85,
+      cost: 151300.85,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239b7f7000016",
         "63701d24f032395b3300012c",
@@ -15288,7 +15563,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032390a34000358",
       userId: "63701cc1f032390a3400031c",
-      cost: 1689.74,
+      cost: 168900.74,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f0323986f300012d",
         "63701d24f032395b3300012b",
@@ -15299,7 +15575,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395b3300012e",
       userId: "63701cc1f0323944410002e4",
-      cost: 838.14,
+      cost: 838.0014,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032395694000015",
         "63701d24f032395b3300012a",
@@ -15310,7 +15587,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395b3300012f",
       userId: "63701cc1f032394c49000129",
-      cost: 3253.24,
+      cost: 325300.24,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b000053",
         "63701d24f03239f09e00018f",
@@ -15320,7 +15598,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395b33000130",
       userId: "63701cc1f0323944410002e7",
-      cost: 3550.63,
+      cost: 355000.63,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239cdc5000015",
         "63701d24f03239d81e000016",
@@ -15331,7 +15610,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395b33000131",
       userId: "63701cc1f03239d591000319",
-      cost: 107.48,
+      cost: 107.0048,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239c72c00018f",
         "63701d24f0323986f300012b",
@@ -15341,7 +15621,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395b33000132",
       userId: "63701cc1f03239d591000318",
-      cost: 3072.8,
+      cost: 307200.8,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239b913000017",
         "63701d24f03239bef000012d",
@@ -15353,7 +15634,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395b33000133",
       userId: "63701cc1f032390a34000324",
-      cost: 2916.45,
+      cost: 291600.45,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b00004f",
         "63701d24f032395b3300012d",
@@ -15363,7 +15645,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395b33000134",
       userId: "63701cc1f0323986f3000121",
-      cost: 3647.7,
+      cost: 364700.7,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239db6900012c",
         "63701d25f03239d59100032a",
@@ -15373,7 +15656,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395b33000135",
       userId: "63701cc1f03239bef0000124",
-      cost: 3782.1,
+      cost: 378200.1,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239bef000012c",
         "63701d24f03239d40b000054",
@@ -15384,13 +15668,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395b33000136",
       userId: "63701cc1f03239bef000011f",
-      cost: 235.02,
+      cost: 235.0002,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239d40b00004a", "63701d24f03239bef000012b"],
     },
     {
       _id: "63701d74f032395b33000137",
       userId: "63701cc1f032398675000127",
-      cost: 2687.49,
+      cost: 268700.49,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f0323986f300012a",
         "63701d24f03239528f000016",
@@ -15401,7 +15687,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395b33000138",
       userId: "63701cc1f03239528f000006",
-      cost: 1427.24,
+      cost: 142700.24,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d81e000018",
         "63701d24f032395694000018",
@@ -15413,13 +15700,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395b33000139",
       userId: "63701cc1f03239c72c00018b",
-      cost: 2828.47,
+      cost: 282800.47,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239867500012c", "63701d24f03239cdc5000017"],
     },
     {
       _id: "63701d74f032395b3300013a",
       userId: "63701cc1f03239cdc5000009",
-      cost: 1252.87,
+      cost: 125200.87,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f0323944410002ef",
         "63701d24f03239cdc5000016",
@@ -15431,7 +15720,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395b3300013b",
       userId: "63701cc1f03239db69000126",
-      cost: 3285.66,
+      cost: 328500.66,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032396b8e000018",
         "63701d24f03239db6900012b",
@@ -15443,7 +15733,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395b3300013c",
       userId: "63701cc1f03239db6900011d",
-      cost: 543.75,
+      cost: 543.0075,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239b913000018",
         "63701d24f032396b8e000017",
@@ -15455,7 +15746,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395b3300013d",
       userId: "63701cc1f03239d81e00000a",
-      cost: 2169.95,
+      cost: 216900.95,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239528f000017",
         "63701d24f032396b8e000016",
@@ -15466,25 +15758,29 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395b3300013e",
       userId: "63701cc1f03239528f00000b",
-      cost: 751.81,
+      cost: 751.0081,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239c72c000190"],
     },
     {
       _id: "63701d74f032395b3300013f",
       userId: "63701cc1f032395b33000129",
-      cost: 774.09,
+      cost: 774.0009,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f0323944410002ed"],
     },
     {
       _id: "63701d74f032395b33000140",
       userId: "63701cc1f03239db69000122",
-      cost: 783.69,
+      cost: 783.0069,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032399c0000012b"],
     },
     {
       _id: "63701d74f032395b33000141",
       userId: "63701cc1f032399c00000129",
-      cost: 3808.22,
+      cost: 380800.22,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d81e000017",
         "63701d24f03239f09e000191",
@@ -15496,13 +15792,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395b33000142",
       userId: "63701cc1f032396b8e000009",
-      cost: 2868.43,
+      cost: 286800.43,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239d40b000056"],
     },
     {
       _id: "63701d74f032395b33000143",
       userId: "63701cc1f03239d81e00000e",
-      cost: 583.34,
+      cost: 583.0034,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032395694000017",
         "63701d24f03239cdc5000018",
@@ -15512,7 +15810,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395b33000144",
       userId: "63701cc1f03239bef000011d",
-      cost: 2701.65,
+      cost: 270100.65,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239528f000018",
         "63701d24f03239b913000016",
@@ -15523,7 +15822,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395b33000145",
       userId: "63701cc1f032396b8e000011",
-      cost: 2951.06,
+      cost: 295100.06,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032390a3400032a",
         "63701d24f03239b7f7000016",
@@ -15535,13 +15835,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395b33000146",
       userId: "63701cc1f03239c72c000181",
-      cost: 830.15,
+      cost: 830.0015,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239d81e000015"],
     },
     {
       _id: "63701d74f032395b33000147",
       userId: "63701cc1f03239db69000126",
-      cost: 3313.44,
+      cost: 331300.44,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239b7f7000018",
         "63701d24f032395b3300012d",
@@ -15551,13 +15853,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395b33000148",
       userId: "63701cc1f03239d81e000007",
-      cost: 1205.8,
+      cost: 120500.8,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f0323986f300012c", "63701d24f03239db6900012a"],
     },
     {
       _id: "63701d74f032395b33000149",
       userId: "63701cc1f032395b3300011d",
-      cost: 2824.68,
+      cost: 282400.68,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239b913000017",
         "63701d24f032399c0000012b",
@@ -15569,7 +15873,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395b3300014a",
       userId: "63701cc1f03239cdc500000a",
-      cost: 108.35,
+      cost: 108.0035,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032390a3400032a",
         "63701d24f03239d40b000051",
@@ -15580,7 +15885,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395b3300014b",
       userId: "63701cc1f03239f09e000184",
-      cost: 2417.55,
+      cost: 241700.55,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239db6900012c",
         "63701d24f03239db6900012d",
@@ -15591,7 +15897,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395b3300014c",
       userId: "63701cc1f03239cdc500000e",
-      cost: 2570.97,
+      cost: 257000.97,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239bef000012d",
         "63701d24f032390a34000329",
@@ -15603,25 +15910,29 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395b3300014d",
       userId: "63701cc1f03239b91300000b",
-      cost: 810.78,
+      cost: 810.0078,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239c72c00018f"],
     },
     {
       _id: "63701d74f032395b3300014e",
       userId: "63701cc1f0323986f3000122",
-      cost: 3025.73,
+      cost: 302500.73,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032390a34000328", "63701d24f03239d40b00004e"],
     },
     {
       _id: "63701d74f032395b3300014f",
       userId: "63701cc1f03239d40b00003d",
-      cost: 1846.55,
+      cost: 184600.55,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239f09e000190"],
     },
     {
       _id: "63701d74f032395b33000150",
       userId: "63701cc1f03239cdc5000012",
-      cost: 2832.48,
+      cost: 283200.48,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f0323986f300012d",
         "63701d24f0323986f300012a",
@@ -15631,7 +15942,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395b33000151",
       userId: "63701cc1f032395b3300011f",
-      cost: 2903.88,
+      cost: 290300.88,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b000049",
         "63701d24f03239cdc5000016",
@@ -15643,13 +15955,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395b33000152",
       userId: "63701cc1f0323986f300011f",
-      cost: 2254.13,
+      cost: 225400.13,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032395694000015"],
     },
     {
       _id: "63701d74f032395b33000153",
       userId: "63701cc1f03239d40b000044",
-      cost: 2493.86,
+      cost: 249300.86,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f0323944410002ed",
         "63701d24f03239bef000012c",
@@ -15659,13 +15973,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395b33000154",
       userId: "63701cc1f03239d81e00000e",
-      cost: 3231.81,
+      cost: 323100.81,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239cdc5000015"],
     },
     {
       _id: "63701d74f032395b33000155",
       userId: "63701cc1f03239db69000129",
-      cost: 3487.3,
+      cost: 348700.3,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d81e000016",
         "63701d24f03239cdc5000017",
@@ -15675,19 +15991,22 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395b33000156",
       userId: "63701cc1f03239d591000324",
-      cost: 2745.09,
+      cost: 274500.09,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239bef000012b"],
     },
     {
       _id: "63701d74f032395b33000157",
       userId: "63701cc1f03239f09e000180",
-      cost: 3031.51,
+      cost: 303100.51,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d25f03239d59100032a", "63701d24f03239528f000015"],
     },
     {
       _id: "63701d74f032395b33000158",
       userId: "63701cc1f03239c72c00018a",
-      cost: 1693.53,
+      cost: 169300.53,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239b7f7000015",
         "63701d24f032399c0000012a",
@@ -15697,7 +16016,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395b33000159",
       userId: "63701cc1f0323986f3000128",
-      cost: 1446.87,
+      cost: 144600.87,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239867500012d",
         "63701d25f03239d591000328",
@@ -15708,7 +16028,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395b3300015a",
       userId: "63701cc1f032395694000007",
-      cost: 2192.21,
+      cost: 219200.21,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032394c4900012b",
         "63701d24f03239867500012a",
@@ -15718,7 +16039,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395b3300015b",
       userId: "63701cc1f032395694000008",
-      cost: 899.75,
+      cost: 899.0075,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239f09e00018f",
         "63701d24f03239b7f7000016",
@@ -15729,19 +16051,22 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d59100032b",
       userId: "63701cc1f03239cdc500000d",
-      cost: 1225.16,
+      cost: 122500.16,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239d40b00004c"],
     },
     {
       _id: "63701d74f03239d59100032c",
       userId: "63701cc1f03239569400000a",
-      cost: 502.51,
+      cost: 502.0051,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239867500012b"],
     },
     {
       _id: "63701d74f03239d59100032d",
       userId: "63701cc1f032399c00000129",
-      cost: 1740.06,
+      cost: 174000.06,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b000052",
         "63701d24f03239d40b000047",
@@ -15752,7 +16077,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d59100032e",
       userId: "63701cc1f03239b7f700000a",
-      cost: 1894.09,
+      cost: 189400.09,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032396b8e000015",
         "63701d24f032394c4900012a",
@@ -15763,19 +16089,22 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d59100032f",
       userId: "63701cc1f032394c49000125",
-      cost: 1604.44,
+      cost: 160400.44,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032396b8e000016", "63701d24f03239d40b000051"],
     },
     {
       _id: "63701d74f03239d591000330",
       userId: "63701cc1f03239867500011b",
-      cost: 273.52,
+      cost: 273.0052,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239bef000012c"],
     },
     {
       _id: "63701d74f03239d591000331",
       userId: "63701cc1f03239db69000123",
-      cost: 1141.49,
+      cost: 114100.49,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f0323986f300012c",
         "63701d24f032399c0000012c",
@@ -15787,31 +16116,36 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d591000332",
       userId: "63701cc1f032396b8e00000a",
-      cost: 3994.9,
+      cost: 399400.9,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239d40b00004d", "63701d24f03239d40b000056"],
     },
     {
       _id: "63701d74f03239d591000333",
       userId: "63701cc1f03239b7f7000007",
-      cost: 878.2,
+      cost: 878.002,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032395b3300012d"],
     },
     {
       _id: "63701d74f03239d591000334",
       userId: "63701cc1f03239867500011c",
-      cost: 1358.84,
+      cost: 135800.84,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239b913000018", "63701d24f032395b3300012a"],
     },
     {
       _id: "63701d74f03239d591000335",
       userId: "63701cc1f0323944410002ea",
-      cost: 1372.83,
+      cost: 137200.83,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239867500012b"],
     },
     {
       _id: "63701d74f03239d591000336",
       userId: "63701cc1f032396b8e00000e",
-      cost: 559.15,
+      cost: 559.0015,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032396b8e000018",
         "63701d24f03239d40b00004c",
@@ -15821,7 +16155,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d591000337",
       userId: "63701cc1f03239c72c000187",
-      cost: 2297.98,
+      cost: 229700.98,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f0323986f300012b",
         "63701d24f032390a34000328",
@@ -15831,19 +16166,22 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d591000338",
       userId: "63701cc1f03239528f00000b",
-      cost: 1142.63,
+      cost: 114200.63,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239f09e000190"],
     },
     {
       _id: "63701d74f03239d591000339",
       userId: "63701cc1f03239bef000011b",
-      cost: 1303.19,
+      cost: 130300.19,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239b913000015", "63701d24f03239d40b000052"],
     },
     {
       _id: "63701d74f03239d59100033a",
       userId: "63701cc1f032395b33000129",
-      cost: 3228.67,
+      cost: 322800.67,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032395b3300012c",
         "63701d24f032395694000016",
@@ -15853,13 +16191,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d59100033b",
       userId: "63701cc1f03239c72c000183",
-      cost: 3502.96,
+      cost: 350200.96,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239d40b00004e", "63701d24f0323986f300012d"],
     },
     {
       _id: "63701d74f03239d59100033c",
       userId: "63701cc1f03239d59100031d",
-      cost: 2033.74,
+      cost: 203300.74,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239f09e00018f",
         "63701d24f0323944410002ec",
@@ -15871,13 +16211,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d59100033d",
       userId: "63701cc1f03239b913000011",
-      cost: 2510.55,
+      cost: 251000.55,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239528f000017"],
     },
     {
       _id: "63701d74f03239d59100033e",
       userId: "63701cc1f03239528f00000e",
-      cost: 124.21,
+      cost: 124.0021,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032394c4900012b",
         "63701d24f032399c0000012b",
@@ -15889,7 +16231,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d59100033f",
       userId: "63701cc1f032399c00000124",
-      cost: 3844.04,
+      cost: 384400.04,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032395b3300012b",
         "63701d24f03239b7f7000017",
@@ -15901,7 +16244,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d591000340",
       userId: "63701cc1f03239d40b000042",
-      cost: 1073.24,
+      cost: 107300.24,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239cdc5000015",
         "63701d24f0323944410002ee",
@@ -15913,19 +16257,22 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d591000341",
       userId: "63701cc1f0323944410002e8",
-      cost: 2570.3,
+      cost: 257000.3,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032399c0000012d"],
     },
     {
       _id: "63701d74f03239d591000342",
       userId: "63701cc1f03239d40b00003b",
-      cost: 2894.43,
+      cost: 289400.43,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239f09e00018e", "63701d24f03239d40b000050"],
     },
     {
       _id: "63701d74f03239d591000343",
       userId: "63701cc1f03239b91300000b",
-      cost: 1231.1,
+      cost: 123100.1,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b00004a",
         "63701d24f0323944410002ef",
@@ -15937,13 +16284,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d591000344",
       userId: "63701cc1f0323986f3000122",
-      cost: 252.61,
+      cost: 252.0061,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239d40b00004b", "63701d24f03239cdc5000016"],
     },
     {
       _id: "63701d74f03239d591000345",
       userId: "63701cc1f032394c49000127",
-      cost: 752.29,
+      cost: 752.0029,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d81e000016",
         "63701d24f032390a3400032a",
@@ -15954,7 +16303,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d591000346",
       userId: "63701cc1f032390a34000325",
-      cost: 1699.17,
+      cost: 169900.17,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239db6900012a",
         "63701d24f03239c72c00018f",
@@ -15965,7 +16315,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d591000347",
       userId: "63701cc1f032395694000013",
-      cost: 3423.15,
+      cost: 342300.15,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239bef000012b",
         "63701d24f03239528f000018",
@@ -15975,7 +16326,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d591000348",
       userId: "63701cc1f032399c00000122",
-      cost: 2499.55,
+      cost: 249900.55,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032396b8e000018",
         "63701d24f032395b3300012b",
@@ -15985,7 +16337,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d591000349",
       userId: "63701cc1f03239c72c000180",
-      cost: 226.39,
+      cost: 226.0039,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b000053",
         "63701d24f032395694000015",
@@ -15996,25 +16349,29 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d59100034a",
       userId: "63701cc1f03239f09e000181",
-      cost: 1149.82,
+      cost: 114900.82,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f0323986f300012b"],
     },
     {
       _id: "63701d74f03239d59100034b",
       userId: "63701cc1f032399c00000126",
-      cost: 1802.53,
+      cost: 180200.53,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032390a34000328", "63701d24f032396b8e000017"],
     },
     {
       _id: "63701d74f03239d59100034c",
       userId: "63701cc1f0323986f300011c",
-      cost: 2128.92,
+      cost: 212800.92,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239d40b000050"],
     },
     {
       _id: "63701d74f03239d59100034d",
       userId: "63701cc1f0323986f300011d",
-      cost: 3647.52,
+      cost: 364700.52,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239b913000015",
         "63701d24f03239528f000017",
@@ -16025,7 +16382,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d59100034e",
       userId: "63701cc1f03239f09e00018d",
-      cost: 2001.58,
+      cost: 200100.58,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239b913000017",
         "63701d24f03239d40b000051",
@@ -16037,7 +16395,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d59100034f",
       userId: "63701cc1f032398675000125",
-      cost: 99.52,
+      cost: 99.5002,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239db6900012c",
         "63701d24f0323944410002ef",
@@ -16049,7 +16408,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d591000350",
       userId: "63701cc1f03239b91300000f",
-      cost: 1428.08,
+      cost: 142800.08,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b00004b",
         "63701d24f03239b7f7000016",
@@ -16061,7 +16421,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d591000351",
       userId: "63701cc1f032398675000123",
-      cost: 2584.93,
+      cost: 258400.93,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239b913000018",
         "63701d24f03239d81e000015",
@@ -16073,7 +16434,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d591000352",
       userId: "63701cc1f032395b33000128",
-      cost: 3011.03,
+      cost: 301100.03,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239c72c00018f",
         "63701d24f032390a34000327",
@@ -16084,13 +16446,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d591000353",
       userId: "63701cc1f032390a3400031a",
-      cost: 3648.94,
+      cost: 364800.94,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239db6900012a", "63701d24f03239cdc5000015"],
     },
     {
       _id: "63701d74f03239d591000354",
       userId: "63701cc1f03239c72c000181",
-      cost: 2447.29,
+      cost: 244700.29,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239528f000016",
         "63701d24f03239c72c000191",
@@ -16100,43 +16464,50 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239d591000355",
       userId: "63701cc1f03239d81e000008",
-      cost: 3542.2,
+      cost: 354200.2,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239b7f7000015", "63701d24f03239d81e000016"],
     },
     {
       _id: "63701d74f03239d591000356",
       userId: "63701cc1f03239b7f7000010",
-      cost: 2636.43,
+      cost: 263600.43,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032396b8e000015", "63701d25f03239d59100032a"],
     },
     {
       _id: "63701d74f03239d591000357",
       userId: "63701cc1f03239b7f7000013",
-      cost: 22.7,
+      cost: 22.700,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239f09e000191"],
     },
     {
       _id: "63701d74f03239d591000358",
       userId: "63701cc1f032399c00000123",
-      cost: 1254.83,
+      cost: 125400.83,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032395694000017"],
     },
     {
       _id: "63701d74f032395694000019",
       userId: "63701cc1f03239f09e000187",
-      cost: 1006.17,
+      cost: 100600.17,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032395b3300012d"],
     },
     {
       _id: "63701d74f03239569400001a",
       userId: "63701cc1f032390a34000321",
-      cost: 3788.51,
+      cost: 378800.51,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239f09e00018e", "63701d25f03239d591000328"],
     },
     {
       _id: "63701d74f03239569400001b",
       userId: "63701cc1f03239d81e00000a",
-      cost: 1191.14,
+      cost: 119100.14,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032395b3300012a",
         "63701d24f032394c4900012d",
@@ -16146,7 +16517,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239569400001c",
       userId: "63701cc1f03239528f00000a",
-      cost: 824.22,
+      cost: 824.0022,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239db6900012b",
         "63701d24f032399c0000012b",
@@ -16157,7 +16529,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239569400001d",
       userId: "63701cc1f03239d591000322",
-      cost: 1918.67,
+      cost: 191800.67,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239867500012b",
         "63701d24f0323986f300012c",
@@ -16169,13 +16542,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239569400001e",
       userId: "63701cc1f03239cdc5000008",
-      cost: 1178.68,
+      cost: 117800.68,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032390a3400032a", "63701d24f032394c4900012b"],
     },
     {
       _id: "63701d74f03239569400001f",
       userId: "63701cc1f032399c0000011e",
-      cost: 3525.19,
+      cost: 352500.19,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239b913000016",
         "63701d24f03239d40b000052",
@@ -16186,13 +16561,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395694000020",
       userId: "63701cc1f032398675000122",
-      cost: 2029.59,
+      cost: 202900.59,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239528f000016", "63701d24f032399c0000012b"],
     },
     {
       _id: "63701d74f032395694000021",
       userId: "63701cc1f032396b8e000009",
-      cost: 2611.36,
+      cost: 261100.36,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239f09e00018f",
         "63701d24f03239d40b000048",
@@ -16202,7 +16579,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395694000022",
       userId: "63701cc1f032396b8e000013",
-      cost: 1342.61,
+      cost: 134200.61,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f0323944410002ed",
         "63701d24f03239d81e000017",
@@ -16213,7 +16591,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395694000023",
       userId: "63701cc1f03239cdc500000e",
-      cost: 864.03,
+      cost: 864.0003,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b000053",
         "63701d24f032396b8e000015",
@@ -16225,7 +16604,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395694000024",
       userId: "63701cc1f03239b7f7000011",
-      cost: 2269.3,
+      cost: 226900.3,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239c72c00018f",
         "63701d24f03239bef000012d",
@@ -16235,7 +16615,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395694000025",
       userId: "63701cc1f0323986f300011f",
-      cost: 2879.31,
+      cost: 287900.31,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b000051",
         "63701d24f03239d40b000055",
@@ -16247,7 +16628,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395694000026",
       userId: "63701cc1f03239f09e000183",
-      cost: 1952.66,
+      cost: 195200.66,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239b913000015",
         "63701d24f03239d40b00004b",
@@ -16259,7 +16641,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395694000027",
       userId: "63701cc1f032396b8e00000c",
-      cost: 3286.44,
+      cost: 328600.44,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239f09e00018e",
         "63701d24f03239db6900012c",
@@ -16271,7 +16654,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395694000028",
       userId: "63701cc1f03239528f000007",
-      cost: 1210.4,
+      cost: 121000.4,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032395b3300012d",
         "63701d24f032395b3300012b",
@@ -16282,19 +16666,22 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395694000029",
       userId: "63701cc1f03239b913000011",
-      cost: 456.8,
+      cost: 456.008,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239db6900012b", "63701d24f03239d81e000016"],
     },
     {
       _id: "63701d74f03239569400002a",
       userId: "63701cc1f0323986f300011b",
-      cost: 2965.69,
+      cost: 296500.69,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239cdc5000015", "63701d24f032395b3300012c"],
     },
     {
       _id: "63701d74f03239569400002b",
       userId: "63701cc1f032395b33000127",
-      cost: 3961.87,
+      cost: 396100.87,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f0323986f300012b",
         "63701d24f03239c72c000191",
@@ -16305,31 +16692,36 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239569400002c",
       userId: "63701cc1f03239d40b000043",
-      cost: 1587.09,
+      cost: 158700.09,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032394c4900012b"],
     },
     {
       _id: "63701d74f03239569400002d",
       userId: "63701cc1f03239db6900011b",
-      cost: 229.26,
+      cost: 229.0026,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239d40b000047"],
     },
     {
       _id: "63701d74f03239569400002e",
       userId: "63701cc1f03239867500011d",
-      cost: 501.37,
+      cost: 501.0037,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239b7f7000015"],
     },
     {
       _id: "63701d74f03239569400002f",
       userId: "63701cc1f03239d81e000012",
-      cost: 3787.19,
+      cost: 378700.19,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239d40b000050", "63701d24f032395694000015"],
     },
     {
       _id: "63701d74f032395694000030",
       userId: "63701cc1f032398675000120",
-      cost: 2269.68,
+      cost: 226900.68,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239db6900012a",
         "63701d24f03239867500012c",
@@ -16339,7 +16731,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395694000031",
       userId: "63701cc1f03239867500011e",
-      cost: 2374.64,
+      cost: 237400.64,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b00004f",
         "63701d24f032396b8e000017",
@@ -16349,19 +16742,22 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395694000032",
       userId: "63701cc1f03239d81e00000a",
-      cost: 1999.86,
+      cost: 199900.86,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d25f03239d59100032a", "63701d24f03239f09e000191"],
     },
     {
       _id: "63701d74f032395694000033",
       userId: "63701cc1f03239b7f7000007",
-      cost: 1829.97,
+      cost: 182900.97,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239b913000016", "63701d24f03239d40b00004a"],
     },
     {
       _id: "63701d74f032395694000034",
       userId: "63701cc1f032394c49000129",
-      cost: 542.47,
+      cost: 542.0047,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d25f03239d591000328",
         "63701d24f032399c0000012c",
@@ -16371,13 +16767,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395694000035",
       userId: "63701cc1f03239d40b000040",
-      cost: 2028.57,
+      cost: 202800.57,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032390a3400032a", "63701d24f03239cdc5000018"],
     },
     {
       _id: "63701d74f032395694000036",
       userId: "63701cc1f03239d59100031b",
-      cost: 1959.18,
+      cost: 195900.18,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239528f000018",
         "63701d24f03239bef000012a",
@@ -16388,19 +16786,22 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395694000037",
       userId: "63701cc1f03239b7f7000006",
-      cost: 3990.02,
+      cost: 399000.02,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239b7f7000018"],
     },
     {
       _id: "63701d74f032395694000038",
       userId: "63701cc1f03239d591000322",
-      cost: 1878.32,
+      cost: 187800.32,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032394c4900012a", "63701d24f032390a34000327"],
     },
     {
       _id: "63701d74f032395694000039",
       userId: "63701cc1f03239db69000128",
-      cost: 3976.65,
+      cost: 397600.65,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d81e000017",
         "63701d24f03239867500012c",
@@ -16412,7 +16813,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239569400003a",
       userId: "63701cc1f03239f09e000182",
-      cost: 933.48,
+      cost: 933.0048,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239f09e00018e",
         "63701d24f03239d40b00004e",
@@ -16423,13 +16825,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239569400003b",
       userId: "63701cc1f03239c72c000181",
-      cost: 585.64,
+      cost: 585.0064,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032390a34000327"],
     },
     {
       _id: "63701d74f03239569400003c",
       userId: "63701cc1f03239c72c00018c",
-      cost: 2818.55,
+      cost: 281800.55,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032394c4900012c",
         "63701d24f032399c0000012b",
@@ -16441,13 +16845,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239569400003d",
       userId: "63701cc1f03239d591000318",
-      cost: 3816.89,
+      cost: 381600.89,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239d40b000051", "63701d24f03239d40b000050"],
     },
     {
       _id: "63701d74f03239569400003e",
       userId: "63701cc1f03239db69000127",
-      cost: 3830.6,
+      cost: 383000.6,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032399c0000012a",
         "63701d24f03239867500012d",
@@ -16459,19 +16865,22 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239569400003f",
       userId: "63701cc1f032399c00000122",
-      cost: 2530.27,
+      cost: 253000.27,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032396b8e000018"],
     },
     {
       _id: "63701d74f032395694000040",
       userId: "63701cc1f032399c00000121",
-      cost: 1557.75,
+      cost: 155700.75,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239bef000012c", "63701d24f03239b7f7000016"],
     },
     {
       _id: "63701d74f032395694000041",
       userId: "63701cc1f032395b33000122",
-      cost: 1031.98,
+      cost: 103100.98,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032395694000015",
         "63701d25f03239d59100032a",
@@ -16482,7 +16891,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395694000042",
       userId: "63701cc1f032394c4900011f",
-      cost: 2382.42,
+      cost: 238200.42,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239bef000012b",
         "63701d24f03239d81e000015",
@@ -16494,7 +16904,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395694000043",
       userId: "63701cc1f03239db6900011b",
-      cost: 1592.8,
+      cost: 159200.8,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239b913000017",
         "63701d24f032395b3300012d",
@@ -16506,13 +16917,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395694000044",
       userId: "63701cc1f03239b913000006",
-      cost: 3855.51,
+      cost: 385500.51,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f0323986f300012d"],
     },
     {
       _id: "63701d74f032395694000045",
       userId: "63701cc1f032399c0000011d",
-      cost: 3061.74,
+      cost: 306100.74,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239528f000017",
         "63701d24f03239c72c000191",
@@ -16522,19 +16935,22 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032395694000046",
       userId: "63701cc1f03239bef000011b",
-      cost: 545.97,
+      cost: 545.0097,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239528f000018", "63701d24f03239867500012b"],
     },
     {
       _id: "63701d74f032396b8e000019",
       userId: "63701cc1f032396b8e00000a",
-      cost: 531.23,
+      cost: 531.0023,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032394c4900012b"],
     },
     {
       _id: "63701d74f032396b8e00001a",
       userId: "63701cc1f032394c4900011e",
-      cost: 833.05,
+      cost: 833.0005,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032395694000017",
         "63701d24f0323944410002ee",
@@ -16546,7 +16962,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032396b8e00001b",
       userId: "63701cc1f03239d81e00000e",
-      cost: 1000.84,
+      cost: 100000.84,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b000053",
         "63701d24f03239cdc5000018",
@@ -16558,13 +16975,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032396b8e00001c",
       userId: "63701cc1f03239b913000011",
-      cost: 3514.81,
+      cost: 351400.81,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239d81e000016"],
     },
     {
       _id: "63701d74f032396b8e00001d",
       userId: "63701cc1f032396b8e00000c",
-      cost: 732.46,
+      cost: 732.0046,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032394c4900012a",
         "63701d24f032395694000016",
@@ -16576,7 +16995,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032396b8e00001e",
       userId: "63701cc1f032396b8e000009",
-      cost: 1846.95,
+      cost: 184600.95,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239db6900012b",
         "63701d24f03239d40b000055",
@@ -16588,13 +17008,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032396b8e00001f",
       userId: "63701cc1f03239cdc5000012",
-      cost: 478.68,
+      cost: 478.0068,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239528f000015", "63701d24f032399c0000012c"],
     },
     {
       _id: "63701d74f032396b8e000020",
       userId: "63701cc1f032399c0000011e",
-      cost: 2963.61,
+      cost: 296300.61,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032396b8e000017",
         "63701d25f03239d591000327",
@@ -16605,7 +17027,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032396b8e000021",
       userId: "63701cc1f03239b7f700000e",
-      cost: 3396.07,
+      cost: 339600.07,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239db6900012d",
         "63701d24f03239d40b000054",
@@ -16616,7 +17039,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032396b8e000022",
       userId: "63701cc1f03239b7f7000008",
-      cost: 1104.58,
+      cost: 110400.58,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239b7f7000018",
         "63701d24f032399c0000012d",
@@ -16628,25 +17052,29 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032396b8e000023",
       userId: "63701cc1f03239b7f7000010",
-      cost: 668.7,
+      cost: 668.007,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032390a34000329"],
     },
     {
       _id: "63701d74f032396b8e000024",
       userId: "63701cc1f03239d591000323",
-      cost: 3888.08,
+      cost: 388800.08,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032399c0000012b", "63701d24f03239d40b000054"],
     },
     {
       _id: "63701d74f032396b8e000025",
       userId: "63701cc1f03239b91300000a",
-      cost: 88.81,
+      cost: 88.8001,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239bef000012c", "63701d24f032394c4900012a"],
     },
     {
       _id: "63701d74f032396b8e000026",
       userId: "63701cc1f03239cdc500000e",
-      cost: 3277.91,
+      cost: 327700.91,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b000049",
         "63701d24f03239d81e000018",
@@ -16656,7 +17084,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032396b8e000027",
       userId: "63701cc1f032395b33000124",
-      cost: 2457.33,
+      cost: 245700.33,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239528f000018",
         "63701d24f03239cdc5000018",
@@ -16667,13 +17096,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032396b8e000028",
       userId: "63701cc1f0323944410002e5",
-      cost: 118.18,
+      cost: 118.0018,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f0323944410002ed", "63701d24f03239c72c000191"],
     },
     {
       _id: "63701d74f032396b8e000029",
       userId: "63701cc1f03239bef000011c",
-      cost: 3361.11,
+      cost: 336100.11,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b00004d",
         "63701d24f03239cdc5000015",
@@ -16685,13 +17116,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032396b8e00002a",
       userId: "63701cc1f03239528f00000a",
-      cost: 621.51,
+      cost: 621.0051,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239bef000012b"],
     },
     {
       _id: "63701d74f032396b8e00002b",
       userId: "63701cc1f03239528f00000f",
-      cost: 2036.19,
+      cost: 203600.19,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b000047",
         "63701d24f0323986f300012b",
@@ -16701,13 +17134,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032396b8e00002c",
       userId: "63701cc1f03239c72c000188",
-      cost: 3971,
+      cost: 397100,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239b7f7000016", "63701d24f032395694000018"],
     },
     {
       _id: "63701d74f032396b8e00002d",
       userId: "63701cc1f03239bef000011b",
-      cost: 596.77,
+      cost: 596.0077,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032395694000015",
         "63701d24f032395b3300012d",
@@ -16718,13 +17153,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032396b8e00002e",
       userId: "63701cc1f03239cdc500000d",
-      cost: 1729.43,
+      cost: 172900.43,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239f09e000191"],
     },
     {
       _id: "63701d74f032396b8e00002f",
       userId: "63701cc1f0323944410002e8",
-      cost: 2709.97,
+      cost: 270900.97,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032395b3300012b",
         "63701d24f0323944410002ec",
@@ -16735,7 +17172,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032396b8e000030",
       userId: "63701cc1f0323986f300011f",
-      cost: 3812.92,
+      cost: 381200.92,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239b913000016",
         "63701d24f0323944410002ee",
@@ -16747,7 +17185,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032396b8e000031",
       userId: "63701cc1f0323944410002e1",
-      cost: 2163.93,
+      cost: 216300.93,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b00004e",
         "63701d24f032390a34000329",
@@ -16758,7 +17197,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032396b8e000032",
       userId: "63701cc1f03239bef0000128",
-      cost: 62.48,
+      cost: 62.4008,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239867500012b",
         "63701d24f0323986f300012a",
@@ -16770,7 +17210,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032396b8e000033",
       userId: "63701cc1f03239d81e00000e",
-      cost: 41.64,
+      cost: 41.6004,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032394c4900012b",
         "63701d24f032390a3400032a",
@@ -16781,7 +17222,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032396b8e000034",
       userId: "63701cc1f032390a3400031e",
-      cost: 1159.29,
+      cost: 115900.29,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239f09e00018f",
         "63701d25f03239d59100032a",
@@ -16791,13 +17233,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032396b8e000035",
       userId: "63701cc1f03239b7f7000008",
-      cost: 2479.46,
+      cost: 247900.46,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239d40b000053"],
     },
     {
       _id: "63701d74f032396b8e000036",
       userId: "63701cc1f0323944410002e7",
-      cost: 1712.97,
+      cost: 171200.97,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032390a34000328",
         "63701d24f032395b3300012c",
@@ -16807,7 +17251,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032396b8e000037",
       userId: "63701cc1f03239cdc5000011",
-      cost: 1845.49,
+      cost: 184500.49,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032396b8e000015",
         "63701d24f032394c4900012c",
@@ -16817,7 +17262,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032396b8e000038",
       userId: "63701cc1f03239c72c000184",
-      cost: 33.34,
+      cost: 33.3004,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032399c0000012d",
         "63701d24f03239d40b000056",
@@ -16829,7 +17275,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032396b8e000039",
       userId: "63701cc1f032395b33000120",
-      cost: 1349.24,
+      cost: 134900.24,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239f09e000190",
         "63701d25f03239d591000329",
@@ -16841,13 +17288,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032396b8e00003a",
       userId: "63701cc1f032395b33000121",
-      cost: 3790.45,
+      cost: 379000.45,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239db6900012b"],
     },
     {
       _id: "63701d74f032396b8e00003b",
       userId: "63701cc1f03239867500011b",
-      cost: 3013.88,
+      cost: 301300.88,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032395694000016",
         "63701d24f032396b8e000017",
@@ -16858,13 +17307,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032396b8e00003c",
       userId: "63701cc1f03239d59100031d",
-      cost: 1159.62,
+      cost: 115900.62,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239b913000018", "63701d25f03239d591000328"],
     },
     {
       _id: "63701d74f032396b8e00003d",
       userId: "63701cc1f03239d81e000008",
-      cost: 2747.76,
+      cost: 274700.76,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d25f03239d591000329",
         "63701d24f03239cdc5000017",
@@ -16874,13 +17325,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032396b8e00003e",
       userId: "63701cc1f03239c72c00018c",
-      cost: 1677,
+      cost: 167700,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032395b3300012c"],
     },
     {
       _id: "63701d74f032396b8e00003f",
       userId: "63701cc1f03239528f000011",
-      cost: 1406.13,
+      cost: 140600.13,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d25f03239d59100032a",
         "63701d24f03239c72c00018e",
@@ -16891,7 +17344,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032396b8e000040",
       userId: "63701cc1f03239d591000321",
-      cost: 1844.95,
+      cost: 184400.95,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239db6900012c",
         "63701d24f03239bef000012d",
@@ -16903,19 +17357,22 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032396b8e000041",
       userId: "63701cc1f03239b7f7000007",
-      cost: 1058.08,
+      cost: 105800.08,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f0323944410002ef"],
     },
     {
       _id: "63701d74f032396b8e000042",
       userId: "63701cc1f03239f09e000188",
-      cost: 1290.81,
+      cost: 129000.81,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032395694000017"],
     },
     {
       _id: "63701d74f032396b8e000043",
       userId: "63701cc1f03239bef000011d",
-      cost: 3808.93,
+      cost: 380800.93,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239db6900012d",
         "63701d24f032399c0000012d",
@@ -16925,7 +17382,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032396b8e000044",
       userId: "63701cc1f032398675000122",
-      cost: 1230.6,
+      cost: 123000.6,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b00004d",
         "63701d24f03239f09e00018e",
@@ -16936,25 +17394,29 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f032396b8e000045",
       userId: "63701cc1f032399c0000011c",
-      cost: 2460.5,
+      cost: 246000.5,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f0323986f300012b"],
     },
     {
       _id: "63701d74f032396b8e000046",
       userId: "63701cc1f03239cdc500000c",
-      cost: 1664.34,
+      cost: 166400.34,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f0323944410002ee"],
     },
     {
       _id: "63701d74f03239bef000012e",
       userId: "63701cc1f032396b8e00000d",
-      cost: 1109.75,
+      cost: 110900.75,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f0323986f300012c", "63701d24f032390a34000329"],
     },
     {
       _id: "63701d74f03239bef000012f",
       userId: "63701cc1f032399c00000129",
-      cost: 3075.49,
+      cost: 307500.49,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239b913000017",
         "63701d24f03239d81e000018",
@@ -16966,7 +17428,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239bef0000130",
       userId: "63701cc1f03239b7f700000c",
-      cost: 3219.87,
+      cost: 321900.87,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d81e000017",
         "63701d24f032394c4900012b",
@@ -16976,7 +17439,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239bef0000131",
       userId: "63701cc1f03239cdc5000009",
-      cost: 554.41,
+      cost: 554.0041,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239b7f7000018",
         "63701d24f03239d40b00004e",
@@ -16986,7 +17450,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239bef0000132",
       userId: "63701cc1f03239b7f7000008",
-      cost: 2694.52,
+      cost: 269400.52,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239528f000018",
         "63701d24f03239d40b000053",
@@ -16997,7 +17462,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239bef0000133",
       userId: "63701cc1f03239d40b000041",
-      cost: 1937.53,
+      cost: 193700.53,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d25f03239d591000328",
         "63701d24f03239c72c000191",
@@ -17008,13 +17474,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239bef0000134",
       userId: "63701cc1f03239867500011f",
-      cost: 2182.98,
+      cost: 218200.98,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239867500012d"],
     },
     {
       _id: "63701d74f03239bef0000135",
       userId: "63701cc1f03239cdc500000b",
-      cost: 616.02,
+      cost: 616.0002,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239f09e000190",
         "63701d24f03239b7f7000016",
@@ -17025,37 +17493,43 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239bef0000136",
       userId: "63701cc1f032398675000126",
-      cost: 3358.05,
+      cost: 335800.05,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032399c0000012c", "63701d24f03239d40b00004c"],
     },
     {
       _id: "63701d74f03239bef0000137",
       userId: "63701cc1f03239c72c000181",
-      cost: 2612.1,
+      cost: 261200.1,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f0323986f300012d", "63701d24f032395b3300012b"],
     },
     {
       _id: "63701d74f03239bef0000138",
       userId: "63701cc1f032395694000010",
-      cost: 2963.93,
+      cost: 296300.93,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239d81e000016"],
     },
     {
       _id: "63701d74f03239bef0000139",
       userId: "63701cc1f03239c72c000189",
-      cost: 2691.9,
+      cost: 269100.9,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239528f000017", "63701d24f0323986f300012a"],
     },
     {
       _id: "63701d74f03239bef000013a",
       userId: "63701cc1f03239528f00000b",
-      cost: 666.35,
+      cost: 666.0035,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d25f03239d591000327", "63701d24f032394c4900012c"],
     },
     {
       _id: "63701d74f03239bef000013b",
       userId: "63701cc1f032399c00000127",
-      cost: 2033.47,
+      cost: 203300.47,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b000056",
         "63701d24f032395b3300012d",
@@ -17067,7 +17541,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239bef000013c",
       userId: "63701cc1f03239bef0000129",
-      cost: 1484.96,
+      cost: 148400.96,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032395b3300012a",
         "63701d24f03239528f000015",
@@ -17079,7 +17554,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239bef000013d",
       userId: "63701cc1f032396b8e000012",
-      cost: 2263.82,
+      cost: 226300.82,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b000047",
         "63701d24f0323986f300012a",
@@ -17089,7 +17565,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239bef000013e",
       userId: "63701cc1f03239d81e000007",
-      cost: 3432.11,
+      cost: 343200.11,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f0323944410002ed",
         "63701d24f03239528f000017",
@@ -17101,7 +17578,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239bef000013f",
       userId: "63701cc1f03239d40b000039",
-      cost: 2686.67,
+      cost: 268600.67,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032396b8e000017",
         "63701d24f03239d40b000056",
@@ -17112,13 +17590,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239bef0000140",
       userId: "63701cc1f032395b33000128",
-      cost: 2674.7,
+      cost: 267400.7,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032395b3300012c", "63701d24f03239db6900012a"],
     },
     {
       _id: "63701d74f03239bef0000141",
       userId: "63701cc1f03239f09e000187",
-      cost: 2984.15,
+      cost: 298400.15,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032390a34000328",
         "63701d24f03239b913000016",
@@ -17129,19 +17609,22 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239bef0000142",
       userId: "63701cc1f03239867500011b",
-      cost: 2261.28,
+      cost: 226100.28,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239867500012a"],
     },
     {
       _id: "63701d74f03239bef0000143",
       userId: "63701cc1f03239cdc5000010",
-      cost: 3740.97,
+      cost: 374000.97,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239d81e000018", "63701d24f03239d40b000050"],
     },
     {
       _id: "63701d74f03239bef0000144",
       userId: "63701cc1f03239d40b000040",
-      cost: 3276.83,
+      cost: 327600.83,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239f09e000191",
         "63701d24f0323986f300012d",
@@ -17151,7 +17634,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239bef0000145",
       userId: "63701cc1f032399c00000123",
-      cost: 3004.11,
+      cost: 300400.11,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239b913000018",
         "63701d24f032395694000018",
@@ -17162,7 +17646,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239bef0000146",
       userId: "63701cc1f0323944410002ea",
-      cost: 1232.26,
+      cost: 123200.26,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239c72c00018f",
         "63701d24f032396b8e000015",
@@ -17174,13 +17659,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239bef0000147",
       userId: "63701cc1f032395694000012",
-      cost: 3716.79,
+      cost: 371600.79,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d25f03239d59100032a"],
     },
     {
       _id: "63701d74f03239bef0000148",
       userId: "63701cc1f03239d81e00000f",
-      cost: 2715.02,
+      cost: 271500.02,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032399c0000012c",
         "63701d24f03239f09e00018e",
@@ -17192,7 +17679,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239bef0000149",
       userId: "63701cc1f03239db69000128",
-      cost: 2683.83,
+      cost: 268300.83,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d81e000015",
         "63701d24f03239b7f7000016",
@@ -17202,13 +17690,15 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239bef000014a",
       userId: "63701cc1f03239d81e000008",
-      cost: 2538.89,
+      cost: 253800.89,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032399c0000012b", "63701d24f03239d40b00004a"],
     },
     {
       _id: "63701d74f03239bef000014b",
       userId: "63701cc1f03239867500011e",
-      cost: 808.18,
+      cost: 808.0018,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239bef000012d",
         "63701d24f03239d40b00004e",
@@ -17220,7 +17710,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239bef000014c",
       userId: "63701cc1f032395b33000126",
-      cost: 1124.55,
+      cost: 112400.55,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032396b8e000018",
         "63701d24f03239cdc5000016",
@@ -17230,31 +17721,36 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239bef000014d",
       userId: "63701cc1f032390a34000321",
-      cost: 1471.05,
+      cost: 147100.05,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f032390a34000329", "63701d24f032396b8e000016"],
     },
     {
       _id: "63701d74f03239bef000014e",
       userId: "63701cc1f0323986f300011f",
-      cost: 2403.19,
+      cost: 240300.19,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239c72c000190"],
     },
     {
       _id: "63701d74f03239bef000014f",
       userId: "63701cc1f032396b8e00000e",
-      cost: 1702.69,
+      cost: 170200.69,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f03239db6900012b", "63701d24f0323944410002ec"],
     },
     {
       _id: "63701d74f03239bef0000150",
       userId: "63701cc1f03239528f000013",
-      cost: 1864.03,
+      cost: 186400.03,
+      name: "Temitayo Daisi-Oso",
       products: ["63701d24f0323986f300012b"],
     },
     {
       _id: "63701d74f03239bef0000151",
       userId: "63701cc1f03239f09e000186",
-      cost: 3880.97,
+      cost: 388000.97,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239bef000012b",
         "63701d24f03239867500012c",
@@ -17264,7 +17760,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239bef0000152",
       userId: "63701cc1f032390a3400031a",
-      cost: 919.82,
+      cost: 919.0082,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f032395694000016",
         "63701d24f03239db6900012c",
@@ -17274,7 +17771,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239bef0000153",
       userId: "63701cc1f032394c49000125",
-      cost: 968.95,
+      cost: 968.0095,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239d40b00004f",
         "63701d24f032394c4900012a",
@@ -17286,7 +17784,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239bef0000154",
       userId: "63701cc1f03239d40b000043",
-      cost: 3889.06,
+      cost: 388900.06,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239f09e000190",
         "63701d24f03239bef000012c",
@@ -17297,7 +17796,8 @@ export const dataAffiliateStat = [
     {
       _id: "63701d74f03239bef0000155",
       userId: "63701cc1f03239d40b00003e",
-      cost: 1720.85,
+      cost: 172000.85,
+      name: "Temitayo Daisi-Oso",
       products: [
         "63701d24f03239cdc5000017",
         "63701d24f03239bef000012a",

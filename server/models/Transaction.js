@@ -3,6 +3,7 @@ import mongoose from "mongoose";
 const TransactionSchema = new mongoose.Schema(
     {
         userId: String,
+        name: String,
         cost: String,
         products: {
             type: [mongoose.Types.ObjectId],
