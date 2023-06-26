@@ -1,9 +1,9 @@
-import {React, useState} from 'react';
+import React, {useState} from 'react';
 import { DataGrid } from '@mui/x-data-grid';
 import { useGetTransactionsQuery } from 'state/api';
 import Header from 'components/Header';
-import { useTheme } from '@emotion/react';
-import { Box } from '@mui/material';
+import { Box, useTheme } from '@mui/material';
+import DataGridCustomToolbar from "components/DataGridCustomToolbar";
 
 
 const Transactions = () => {
@@ -16,6 +16,8 @@ const Transactions = () => {
     const [sort, setSort] = useState({});
     const [search, setSearch] = useState("");
 
+    const [searchInput, setSearchInput] = useState("");
+
     const { data, isLoading } = useGetTransactionsQuery({
         page,
         pageSize,
@@ -23,25 +25,27 @@ const Transactions = () => {
         search
     })
 
+    console.log("transactions data:", data)
+
     const columns = [
         {
           field: "_id",
           headerName: "ID",
-          flex: 1,
+          flex: 0.8,
         },
         {
             field: "userId",
             headerName: "User ID",
-            flex: 0.5,
+            flex: 0.8,
           },
         {
           field: "name",
           headerName: "Name",
-          flex: 0.5,
+          flex: 0.8,
         },
         {
           field: "createdAt",
-          headerName: "CreatedAt",
+          headerName: "Created At",
           flex: 1,
         },
         {
@@ -55,12 +59,12 @@ const Transactions = () => {
           field: "cost",
           headerName: "Cost",
           flex: 0.5,
-          renderCell: (params) => `$${Number(params.value).toFixed(2)}`
+          renderCell: (params) => `NGN${Number(params.value).toFixed(2)}`
         },
         
       ]
 
-    console.log('data', data)
+    // console.log('data', data)
   return <Box m="1.5rem 2.5rem">
     <Header title="TRANSACTIONS" subtitle="Entire list of transactions"/>
     <Box 
@@ -92,6 +96,7 @@ const Transactions = () => {
             rows = {(data && data.transactions) || []}
             columns = {columns}
             rowCount = {(data && data.total) || 0}
+            rowsPerPageOption = {[20, 50, 100]}
             pagination
             page = {page}
             pageSize = {pageSize}
@@ -100,6 +105,10 @@ const Transactions = () => {
             onPageChange = {(newPage) => setPage(newPage)}
             onPageSizeChange = {(newPageSize) => setPageSize(newPageSize)}
             onSortModelChange = {(newSortModel) => setSort(...newSortModel)}
+            components = {{ Toolbar: DataGridCustomToolbar }}
+            componentsProps={{
+              toolbar: { searchInput, setSearchInput, setSearch }
+            }}
         />
     </Box>
 
