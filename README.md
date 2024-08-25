@@ -1,4 +1,6 @@
 # LASPEMA Admin Dashboard
-
-cd 
-npm start
+cd **client** <br />
+npm start <br />
+<br />
+cd **server** <br />
+npm run dev
