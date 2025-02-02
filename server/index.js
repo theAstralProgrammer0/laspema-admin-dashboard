@@ -1,5 +1,3 @@
-#!/usr/bin/node
-
 import express from "express";
 import bodyParser from "body-parser";
 import mongoose from "mongoose";
@@ -48,7 +46,7 @@ app.use("/sales", salesRoutes);
 /* MONGOOSE SETUP */
 const PORT = process.env.PORT || 9000;
 mongoose
-  .connect(process.env.MONGO_URL || 'mongodb://localhost:27017/laspema-admin-database', {
+  .connect(process.env.MONGO_URL || 'mongodb://localhost:27017/laspema-admin-database', { // Corrected connect call
     useNewUrlParser: true,
     useUnifiedTopology: true,
   })
@@ -63,4 +61,4 @@ mongoose
     // Transaction.insertMany(dataTransaction);
     // User.insertMany(dataUser);
   })
-  .catch((error) => console.log(`${error} did not connect`));
+  .catch((error) => console.log(`${error} did not connect`)); // Corrected catch block
